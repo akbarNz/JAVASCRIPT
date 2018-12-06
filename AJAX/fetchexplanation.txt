@@ -1,0 +1,20 @@
+1 BASIC: post, get, delete, update
+=> query => apikey
+
+
+
+2 WHY AND WHEN + FLOW USE FETCH
+
+
+
+
+3 (HOW HEADER BOBY) THEN CATCH
+then provide data and the catch provide the error when something went wrong
+
+
+
+5 DATA STRUCTURE
+
+
+
+6 POSTMAN

@@ -1,0 +1,6619 @@
+[{
+    "id": 12,
+    "name": "Beatles",
+    "year_started": 1960,
+    "year_quit": 1970,
+    "text": "Beatles"
+}, {
+    "id": 14,
+    "name": "Dario G",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "Dario G"
+}, {
+    "id": 16,
+    "name": "Fleetwood Mac",
+    "year_started": 1967,
+    "year_quit": null,
+    "text": "Fleetwood Mac"
+}, {
+    "id": 17,
+    "name": "Blink 182",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Blink 182"
+}, {
+    "id": 18,
+    "name": "Bloc Party",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "Bloc Party"
+}, {
+    "id": 19,
+    "name": "The Temper Trap",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "The Temper Trap"
+}, {
+    "id": 20,
+    "name": "MGMT",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "MGMT"
+}, {
+    "id": 21,
+    "name": "Coldplay",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Coldplay"
+}, {
+    "id": 22,
+    "name": "The Chainsmokers",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "The Chainsmokers"
+}, {
+    "id": 23,
+    "name": "Beyonc\u00e9",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "Beyonc\u00e9"
+}, {
+    "id": 24,
+    "name": "The Outfield",
+    "year_started": 1984,
+    "year_quit": 2014,
+    "text": "The Outfield"
+}, {
+    "id": 25,
+    "name": "Linkin Park",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Linkin Park"
+}, {
+    "id": 26,
+    "name": "Fort Minor",
+    "year_started": 2004,
+    "year_quit": 2006,
+    "text": "Fort Minor"
+}, {
+    "id": 27,
+    "name": "Eminem",
+    "year_started": 1988,
+    "year_quit": null,
+    "text": "Eminem"
+}, {
+    "id": 28,
+    "name": "DAAN",
+    "year_started": 1987,
+    "year_quit": null,
+    "text": "DAAN"
+}, {
+    "id": 29,
+    "name": "\"Weird Al\" Yankovic",
+    "year_started": 1983,
+    "year_quit": null,
+    "text": "\"Weird Al\" Yankovic"
+}, {
+    "id": 30,
+    "name": "'Til Tuesday",
+    "year_started": 1982,
+    "year_quit": 1989,
+    "text": "'Til Tuesday"
+}, {
+    "id": 31,
+    "name": "*NSYNC",
+    "year_started": 1995,
+    "year_quit": 2002,
+    "text": "*NSYNC"
+}, {
+    "id": 32,
+    "name": "Starley",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "Starley"
+}, {
+    "id": 33,
+    "name": ".38 Special",
+    "year_started": 1974,
+    "year_quit": null,
+    "text": ".38 Special"
+}, {
+    "id": 34,
+    "name": "10.000 Maniacs",
+    "year_started": 1981,
+    "year_quit": null,
+    "text": "10.000 Maniacs"
+}, {
+    "id": 35,
+    "name": "112",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "112"
+}, {
+    "id": 36,
+    "name": "Slim",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Slim"
+}, {
+    "id": 37,
+    "name": "Fatboy Slim",
+    "year_started": 1979,
+    "year_quit": null,
+    "text": "Fatboy Slim"
+}, {
+    "id": 38,
+    "name": "Leonard Cohen",
+    "year_started": 1956,
+    "year_quit": 2016,
+    "text": "Leonard Cohen"
+}, {
+    "id": 39,
+    "name": "2 Belgen",
+    "year_started": 1982,
+    "year_quit": 1993,
+    "text": "2 Belgen"
+}, {
+    "id": 40,
+    "name": "2 Chainz",
+    "year_started": 1991,
+    "year_quit": null,
+    "text": "2 Chainz"
+}, {
+    "id": 41,
+    "name": "Vof De Kunst",
+    "year_started": 1983,
+    "year_quit": null,
+    "text": "Vof De Kunst"
+}, {
+    "id": 42,
+    "name": "Jay-Z",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Jay-Z"
+}, {
+    "id": 43,
+    "name": "Elbow",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "Elbow"
+}, {
+    "id": 44,
+    "name": "dEUS",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "dEUS"
+}, {
+    "id": 45,
+    "name": "Rihanna",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Rihanna"
+}, {
+    "id": 46,
+    "name": "N.E.R.D",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "N.E.R.D"
+}, {
+    "id": 47,
+    "name": "Gorillaz",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Gorillaz"
+}, {
+    "id": 48,
+    "name": "Editors",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Editors"
+}, {
+    "id": 49,
+    "name": "Stromae",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Stromae"
+}, {
+    "id": 50,
+    "name": "Tamino",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "Tamino"
+}, {
+    "id": 51,
+    "name": "Metal Molly",
+    "year_started": 1994,
+    "year_quit": 2006,
+    "text": "Metal Molly"
+}, {
+    "id": 52,
+    "name": "Sam Smith",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Sam Smith"
+}, {
+    "id": 53,
+    "name": "Lorde",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Lorde"
+}, {
+    "id": 54,
+    "name": "Arcade Fire",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "Arcade Fire"
+}, {
+    "id": 55,
+    "name": "4 Non Blondes",
+    "year_started": 1989,
+    "year_quit": 2014,
+    "text": "4 Non Blondes"
+}, {
+    "id": 56,
+    "name": "2 Unlimited",
+    "year_started": 1991,
+    "year_quit": null,
+    "text": "2 Unlimited"
+}, {
+    "id": 57,
+    "name": "20 Fingers",
+    "year_started": 1994,
+    "year_quit": 1995,
+    "text": "20 Fingers"
+}, {
+    "id": 58,
+    "name": "21 Savage",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "21 Savage"
+}, {
+    "id": 59,
+    "name": "2Pac",
+    "year_started": 1987,
+    "year_quit": 1996,
+    "text": "2Pac"
+}, {
+    "id": 61,
+    "name": "3LW",
+    "year_started": 1999,
+    "year_quit": 2007,
+    "text": "3LW"
+}, {
+    "id": 62,
+    "name": "3OH!3",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "3OH!3"
+}, {
+    "id": 63,
+    "name": "3T",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "3T"
+}, {
+    "id": 64,
+    "name": "4 P.M.",
+    "year_started": 1991,
+    "year_quit": null,
+    "text": "4 P.M."
+}, {
+    "id": 65,
+    "name": "5 Seconds of Summer",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "5 Seconds of Summer"
+}, {
+    "id": 66,
+    "name": "50 Cent",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "50 Cent"
+}, {
+    "id": 67,
+    "name": "69 Boyz",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "69 Boyz"
+}, {
+    "id": 68,
+    "name": "702",
+    "year_started": 1995,
+    "year_quit": 2006,
+    "text": "702"
+}, {
+    "id": 69,
+    "name": "98 Degrees",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "98 Degrees"
+}, {
+    "id": 70,
+    "name": "A",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "A"
+}, {
+    "id": 71,
+    "name": "A A Chuyko",
+    "year_started": 1000,
+    "year_quit": null,
+    "text": "A A Chuyko"
+}, {
+    "id": 72,
+    "name": "Thirty Seconds to Mars",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Thirty Seconds to Mars"
+}, {
+    "id": 73,
+    "name": "A Black Rose Burial",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "A Black Rose Burial"
+}, {
+    "id": 74,
+    "name": "A Brand",
+    "year_started": 2004,
+    "year_quit": 2013,
+    "text": "A Brand"
+}, {
+    "id": 75,
+    "name": "A Broken Silence",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "A Broken Silence"
+}, {
+    "id": 76,
+    "name": "A Bullet For Pretty Boy",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "A Bullet For Pretty Boy"
+}, {
+    "id": 77,
+    "name": "A Call To Sincerity",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "A Call To Sincerity"
+}, {
+    "id": 78,
+    "name": "A Camp",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "A Camp"
+}, {
+    "id": 79,
+    "name": "A Change Of Pace",
+    "year_started": 2001,
+    "year_quit": 2016,
+    "text": "A Change Of Pace"
+}, {
+    "id": 80,
+    "name": "A Cursive Memory",
+    "year_started": 2006,
+    "year_quit": 2012,
+    "text": "A Cursive Memory"
+}, {
+    "id": 81,
+    "name": "A Day At The Fair",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "A Day At The Fair"
+}, {
+    "id": 82,
+    "name": "Blondie",
+    "year_started": 1974,
+    "year_quit": null,
+    "text": "Blondie"
+}, {
+    "id": 83,
+    "name": "Queen",
+    "year_started": 1970,
+    "year_quit": null,
+    "text": "Queen"
+}, {
+    "id": 84,
+    "name": "Kenny Rogers",
+    "year_started": 1956,
+    "year_quit": null,
+    "text": "Kenny Rogers"
+}, {
+    "id": 85,
+    "name": "Donna Summer",
+    "year_started": 1968,
+    "year_quit": 2012,
+    "text": "Donna Summer"
+}, {
+    "id": 86,
+    "name": "Bee Gees",
+    "year_started": 1958,
+    "year_quit": 2012,
+    "text": "Bee Gees"
+}, {
+    "id": 87,
+    "name": "Pink Floyd",
+    "year_started": 1964,
+    "year_quit": 1995,
+    "text": "Pink Floyd"
+}, {
+    "id": 88,
+    "name": "Bob Seger",
+    "year_started": 1961,
+    "year_quit": null,
+    "text": "Bob Seger"
+}, {
+    "id": 89,
+    "name": "Billy Joel",
+    "year_started": 1965,
+    "year_quit": null,
+    "text": "Billy Joel"
+}, {
+    "id": 90,
+    "name": "Michael Jackson",
+    "year_started": 1971,
+    "year_quit": 2009,
+    "text": "Michael Jackson"
+}, {
+    "id": 91,
+    "name": "The Rolling Stones",
+    "year_started": 1962,
+    "year_quit": null,
+    "text": "The Rolling Stones"
+}, {
+    "id": 92,
+    "name": "Jackson Browne",
+    "year_started": 1966,
+    "year_quit": null,
+    "text": "Jackson Browne"
+}, {
+    "id": 93,
+    "name": "Barbra Streisand",
+    "year_started": 1961,
+    "year_quit": null,
+    "text": "Barbra Streisand"
+}, {
+    "id": 94,
+    "name": "Bruce Springsteen",
+    "year_started": 1964,
+    "year_quit": null,
+    "text": "Bruce Springsteen"
+}, {
+    "id": 95,
+    "name": "Delv!s",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Delv!s"
+}, {
+    "id": 96,
+    "name": "Bazart",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Bazart"
+}, {
+    "id": 97,
+    "name": "Black Box Revelation",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Black Box Revelation"
+}, {
+    "id": 98,
+    "name": "Mash",
+    "year_started": 1000,
+    "year_quit": null,
+    "text": "Mash"
+}, {
+    "id": 99,
+    "name": "Beatfreakz",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Beatfreakz"
+}, {
+    "id": 100,
+    "name": "Diam's",
+    "year_started": 1998,
+    "year_quit": 2012,
+    "text": "Diam's"
+}, {
+    "id": 101,
+    "name": "Kelis",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Kelis"
+}, {
+    "id": 102,
+    "name": "Cypress Hill",
+    "year_started": 1988,
+    "year_quit": null,
+    "text": "Cypress Hill"
+}, {
+    "id": 103,
+    "name": "Bow Wow Wow",
+    "year_started": 1980,
+    "year_quit": null,
+    "text": "Bow Wow Wow"
+}, {
+    "id": 104,
+    "name": "Oasis",
+    "year_started": 1991,
+    "year_quit": 2009,
+    "text": "Oasis"
+}, {
+    "id": 105,
+    "name": "Arsenal",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Arsenal"
+}, {
+    "id": 108,
+    "name": "De Ketnetband",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "De Ketnetband"
+}, {
+    "id": 109,
+    "name": "Backstreet Boys",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "Backstreet Boys"
+}, {
+    "id": 110,
+    "name": "Gusttavo Lima",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Gusttavo Lima"
+}, {
+    "id": 111,
+    "name": "David Guetta",
+    "year_started": 1984,
+    "year_quit": null,
+    "text": "David Guetta"
+}, {
+    "id": 112,
+    "name": "3 Doors Down",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "3 Doors Down"
+}, {
+    "id": 113,
+    "name": "Dua Lipa",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Dua Lipa"
+}, {
+    "id": 114,
+    "name": "Duran Duran",
+    "year_started": 1978,
+    "year_quit": null,
+    "text": "Duran Duran"
+}, {
+    "id": 115,
+    "name": "Kelly Clarkson",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "Kelly Clarkson"
+}, {
+    "id": 116,
+    "name": "Twarres",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Twarres"
+}, {
+    "id": 117,
+    "name": "Urban Trad",
+    "year_started": 2003,
+    "year_quit": 2012,
+    "text": "Urban Trad"
+}, {
+    "id": 118,
+    "name": "R.E.M.",
+    "year_started": 1980,
+    "year_quit": 2011,
+    "text": "R.E.M."
+}, {
+    "id": 119,
+    "name": "The La's",
+    "year_started": 1983,
+    "year_quit": 1992,
+    "text": "The La's"
+}, {
+    "id": 120,
+    "name": "Wim Mertens",
+    "year_started": 1978,
+    "year_quit": null,
+    "text": "Wim Mertens"
+}, {
+    "id": 121,
+    "name": "Noir D\u00e9sir",
+    "year_started": 1983,
+    "year_quit": 2010,
+    "text": "Noir D\u00e9sir"
+}, {
+    "id": 122,
+    "name": "Far East Movement",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Far East Movement"
+}, {
+    "id": 123,
+    "name": "Hilary Duff",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "Hilary Duff"
+}, {
+    "id": 124,
+    "name": "KT Tunstall",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "KT Tunstall"
+}, {
+    "id": 125,
+    "name": "Dada Life",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Dada Life"
+}, {
+    "id": 126,
+    "name": "Joy Division",
+    "year_started": 1977,
+    "year_quit": 1980,
+    "text": "Joy Division"
+}, {
+    "id": 127,
+    "name": "Mattafix",
+    "year_started": 2005,
+    "year_quit": 2010,
+    "text": "Mattafix"
+}, {
+    "id": 128,
+    "name": "Phil Collins",
+    "year_started": 1968,
+    "year_quit": null,
+    "text": "Phil Collins"
+}, {
+    "id": 129,
+    "name": "Nico & Vinz",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Nico & Vinz"
+}, {
+    "id": 130,
+    "name": "La\u00efs",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "La\u00efs"
+}, {
+    "id": 131,
+    "name": "LMFAO",
+    "year_started": 2006,
+    "year_quit": 2012,
+    "text": "LMFAO"
+}, {
+    "id": 132,
+    "name": "Showtek",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Showtek"
+}, {
+    "id": 133,
+    "name": "Logic",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Logic"
+}, {
+    "id": 134,
+    "name": "Daft Punk",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "Daft Punk"
+}, {
+    "id": 135,
+    "name": "Death Cab For Cutie",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "Death Cab For Cutie"
+}, {
+    "id": 136,
+    "name": "La Roux",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "La Roux"
+}, {
+    "id": 137,
+    "name": "Air Traffic",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Air Traffic"
+}, {
+    "id": 138,
+    "name": "The Killers",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "The Killers"
+}, {
+    "id": 139,
+    "name": "The Smashing Pumpkins",
+    "year_started": 1988,
+    "year_quit": null,
+    "text": "The Smashing Pumpkins"
+}, {
+    "id": 140,
+    "name": "Absynthe Minded",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Absynthe Minded"
+}, {
+    "id": 141,
+    "name": "Van Halen",
+    "year_started": 1972,
+    "year_quit": null,
+    "text": "Van Halen"
+}, {
+    "id": 142,
+    "name": "Counting Crows",
+    "year_started": 1991,
+    "year_quit": null,
+    "text": "Counting Crows"
+}, {
+    "id": 143,
+    "name": "The Smiths",
+    "year_started": 1982,
+    "year_quit": 1987,
+    "text": "The Smiths"
+}, {
+    "id": 144,
+    "name": "First Aid Kit",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "First Aid Kit"
+}, {
+    "id": 145,
+    "name": "Alessia Cara",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Alessia Cara"
+}, {
+    "id": 146,
+    "name": "Khalid",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Khalid"
+}, {
+    "id": 147,
+    "name": "K'naan",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "K'naan"
+}, {
+    "id": 148,
+    "name": "t.A.T.u",
+    "year_started": 1999,
+    "year_quit": 2011,
+    "text": "t.A.T.u"
+}, {
+    "id": 149,
+    "name": "Laura",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Laura"
+}, {
+    "id": 150,
+    "name": "AC\/DC",
+    "year_started": 1973,
+    "year_quit": null,
+    "text": "AC\/DC"
+}, {
+    "id": 151,
+    "name": "Natalie Imbruglia",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "Natalie Imbruglia"
+}, {
+    "id": 152,
+    "name": "Kendrick Lamar",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Kendrick Lamar"
+}, {
+    "id": 153,
+    "name": "Owl City",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Owl City"
+}, {
+    "id": 154,
+    "name": "Carly Rae Jepsen",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Carly Rae Jepsen"
+}, {
+    "id": 155,
+    "name": "Sam Martin",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Sam Martin"
+}, {
+    "id": 156,
+    "name": "Phoenix",
+    "year_started": 1995,
+    "year_quit": null,
+    "text": "Phoenix"
+}, {
+    "id": 157,
+    "name": "Sean Kingston",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Sean Kingston"
+}, {
+    "id": 158,
+    "name": "Tonya",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Tonya"
+}, {
+    "id": 159,
+    "name": "Deep Purple",
+    "year_started": 1968,
+    "year_quit": null,
+    "text": "Deep Purple"
+}, {
+    "id": 160,
+    "name": "Melanie C",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Melanie C"
+}, {
+    "id": 161,
+    "name": "M\u00d8",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "M\u00d8"
+}, {
+    "id": 162,
+    "name": "Wheatus",
+    "year_started": 1995,
+    "year_quit": null,
+    "text": "Wheatus"
+}, {
+    "id": 163,
+    "name": "Gabrielle",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Gabrielle"
+}, {
+    "id": 165,
+    "name": "Jessica Simpson",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Jessica Simpson"
+}, {
+    "id": 166,
+    "name": "Isabelle A",
+    "year_started": 1987,
+    "year_quit": null,
+    "text": "Isabelle A"
+}, {
+    "id": 167,
+    "name": "Len",
+    "year_started": 1991,
+    "year_quit": null,
+    "text": "Len"
+}, {
+    "id": 168,
+    "name": "Sum 41",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Sum 41"
+}, {
+    "id": 169,
+    "name": "The Kids",
+    "year_started": 1976,
+    "year_quit": null,
+    "text": "The Kids"
+}, {
+    "id": 170,
+    "name": "The Scabs",
+    "year_started": 1981,
+    "year_quit": null,
+    "text": "The Scabs"
+}, {
+    "id": 171,
+    "name": "Birdy",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Birdy"
+}, {
+    "id": 172,
+    "name": "New Radicals",
+    "year_started": 1997,
+    "year_quit": 1999,
+    "text": "New Radicals"
+}, {
+    "id": 175,
+    "name": "Foals",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Foals"
+}, {
+    "id": 178,
+    "name": "Lesley Gore",
+    "year_started": 1963,
+    "year_quit": 2014,
+    "text": "Lesley Gore"
+}, {
+    "id": 179,
+    "name": "Elvis Presley",
+    "year_started": 1953,
+    "year_quit": 1977,
+    "text": "Elvis Presley"
+}, {
+    "id": 180,
+    "name": "Pieter Embrechts",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "Pieter Embrechts"
+}, {
+    "id": 181,
+    "name": "Praga Khan",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "Praga Khan"
+}, {
+    "id": 184,
+    "name": "Starsailor",
+    "year_started": 2000,
+    "year_quit": 2009,
+    "text": "Starsailor"
+}, {
+    "id": 186,
+    "name": "Kanye West",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Kanye West"
+}, {
+    "id": 187,
+    "name": "Kid Cudi",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Kid Cudi"
+}, {
+    "id": 188,
+    "name": "Snow Patrol",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "Snow Patrol"
+}, {
+    "id": 189,
+    "name": "Galantis",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Galantis"
+}, {
+    "id": 190,
+    "name": "X!NK",
+    "year_started": 2003,
+    "year_quit": 2009,
+    "text": "X!NK"
+}, {
+    "id": 191,
+    "name": "Metallica",
+    "year_started": 1981,
+    "year_quit": null,
+    "text": "Metallica"
+}, {
+    "id": 192,
+    "name": "Foo Fighters",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Foo Fighters"
+}, {
+    "id": 193,
+    "name": "Nirvana",
+    "year_started": 1987,
+    "year_quit": 1994,
+    "text": "Nirvana"
+}, {
+    "id": 194,
+    "name": "Chemical Brothers",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "Chemical Brothers"
+}, {
+    "id": 195,
+    "name": "Zara Larsson",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Zara Larsson"
+}, {
+    "id": 196,
+    "name": "Tom Petty",
+    "year_started": 1976,
+    "year_quit": 2017,
+    "text": "Tom Petty"
+}, {
+    "id": 197,
+    "name": "Michael Franti & Spearhead",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Michael Franti & Spearhead"
+}, {
+    "id": 198,
+    "name": "Hootie & the Blowfish",
+    "year_started": 1986,
+    "year_quit": null,
+    "text": "Hootie & the Blowfish"
+}, {
+    "id": 199,
+    "name": "Faces On TV",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Faces On TV"
+}, {
+    "id": 200,
+    "name": "Laura",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Laura"
+}, {
+    "id": 201,
+    "name": "Alex Band",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Alex Band"
+}, {
+    "id": 202,
+    "name": "The Calling",
+    "year_started": 1999,
+    "year_quit": 2005,
+    "text": "The Calling"
+}, {
+    "id": 203,
+    "name": "Faithless",
+    "year_started": 1995,
+    "year_quit": null,
+    "text": "Faithless"
+}, {
+    "id": 204,
+    "name": "Justin Bieber",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Justin Bieber"
+}, {
+    "id": 205,
+    "name": "Poco Loco Gang",
+    "year_started": 1998,
+    "year_quit": 2005,
+    "text": "Poco Loco Gang"
+}, {
+    "id": 206,
+    "name": "White Lies",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "White Lies"
+}, {
+    "id": 207,
+    "name": "Chromatics",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Chromatics"
+}, {
+    "id": 208,
+    "name": "Amy Macdonald",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Amy Macdonald"
+}, {
+    "id": 209,
+    "name": "Ram Jam",
+    "year_started": 1977,
+    "year_quit": 1978,
+    "text": "Ram Jam"
+}, {
+    "id": 210,
+    "name": "Anne-Marie",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Anne-Marie"
+}, {
+    "id": 211,
+    "name": "Blaudzun",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Blaudzun"
+}, {
+    "id": 212,
+    "name": "Smash Mouth",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Smash Mouth"
+}, {
+    "id": 213,
+    "name": "Klingande",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Klingande"
+}, {
+    "id": 214,
+    "name": "Shawn Mendes",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Shawn Mendes"
+}, {
+    "id": 215,
+    "name": "Emilia",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Emilia"
+}, {
+    "id": 216,
+    "name": "Robin Schulz",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Robin Schulz"
+}, {
+    "id": 217,
+    "name": "James Blunt",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "James Blunt"
+}, {
+    "id": 218,
+    "name": "Opus",
+    "year_started": 1973,
+    "year_quit": null,
+    "text": "Opus"
+}, {
+    "id": 219,
+    "name": "Peter Schilling",
+    "year_started": 1976,
+    "year_quit": null,
+    "text": "Peter Schilling"
+}, {
+    "id": 220,
+    "name": "Mika",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Mika"
+}, {
+    "id": 221,
+    "name": "Anastacia",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "Anastacia"
+}, {
+    "id": 222,
+    "name": "New Medicine",
+    "year_started": 2009,
+    "year_quit": 2015,
+    "text": "New Medicine"
+}, {
+    "id": 223,
+    "name": "Christina Aguilera",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "Christina Aguilera"
+}, {
+    "id": 224,
+    "name": "One Direction",
+    "year_started": 2010,
+    "year_quit": 2015,
+    "text": "One Direction"
+}, {
+    "id": 225,
+    "name": "R5",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "R5"
+}, {
+    "id": 226,
+    "name": "The Flaming Lips",
+    "year_started": 1983,
+    "year_quit": null,
+    "text": "The Flaming Lips"
+}, {
+    "id": 227,
+    "name": "Axwell \u039b Ingrosso",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Axwell \u039b Ingrosso"
+}, {
+    "id": 228,
+    "name": "Jason Derulo",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Jason Derulo"
+}, {
+    "id": 229,
+    "name": "Red Hot Chili Peppers",
+    "year_started": 1983,
+    "year_quit": null,
+    "text": "Red Hot Chili Peppers"
+}, {
+    "id": 230,
+    "name": "Aloe Blacc",
+    "year_started": 1995,
+    "year_quit": null,
+    "text": "Aloe Blacc"
+}, {
+    "id": 231,
+    "name": "Taio Cruz",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Taio Cruz"
+}, {
+    "id": 232,
+    "name": "Yungblud",
+    "year_started": 2017,
+    "year_quit": null,
+    "text": "Yungblud"
+}, {
+    "id": 233,
+    "name": "TheColorGrey",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "TheColorGrey"
+}, {
+    "id": 234,
+    "name": "Genesis",
+    "year_started": 1967,
+    "year_quit": 2007,
+    "text": "Genesis"
+}, {
+    "id": 235,
+    "name": "Philip Bailey",
+    "year_started": 1969,
+    "year_quit": null,
+    "text": "Philip Bailey"
+}, {
+    "id": 236,
+    "name": "School Is Cool",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "School Is Cool"
+}, {
+    "id": 240,
+    "name": "Gorki",
+    "year_started": 1989,
+    "year_quit": 2014,
+    "text": "Gorki"
+}, {
+    "id": 242,
+    "name": "The Ting Tings",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "The Ting Tings"
+}, {
+    "id": 243,
+    "name": "The Cranberries",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "The Cranberries"
+}, {
+    "id": 244,
+    "name": "Linda Ronstadt",
+    "year_started": 1967,
+    "year_quit": 2011,
+    "text": "Linda Ronstadt"
+}, {
+    "id": 245,
+    "name": "Lionel Richie",
+    "year_started": 1968,
+    "year_quit": null,
+    "text": "Lionel Richie"
+}, {
+    "id": 246,
+    "name": "Simon & Garfunkel",
+    "year_started": 1956,
+    "year_quit": 1970,
+    "text": "Simon & Garfunkel"
+}, {
+    "id": 247,
+    "name": "Marvin Gaye",
+    "year_started": 1957,
+    "year_quit": 1984,
+    "text": "Marvin Gaye"
+}, {
+    "id": 248,
+    "name": "Billy Talent",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "Billy Talent"
+}, {
+    "id": 249,
+    "name": "The Farm",
+    "year_started": 1983,
+    "year_quit": null,
+    "text": "The Farm"
+}, {
+    "id": 250,
+    "name": "Pixies",
+    "year_started": 1986,
+    "year_quit": null,
+    "text": "Pixies"
+}, {
+    "id": 251,
+    "name": "Madonna",
+    "year_started": 1979,
+    "year_quit": null,
+    "text": "Madonna"
+}, {
+    "id": 252,
+    "name": "Simple Minds",
+    "year_started": 1977,
+    "year_quit": null,
+    "text": "Simple Minds"
+}, {
+    "id": 253,
+    "name": "James Blake",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "James Blake"
+}, {
+    "id": 254,
+    "name": "The Pretenders",
+    "year_started": 1978,
+    "year_quit": null,
+    "text": "The Pretenders"
+}, {
+    "id": 255,
+    "name": "Train",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Train"
+}, {
+    "id": 256,
+    "name": "Zornik",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Zornik"
+}, {
+    "id": 257,
+    "name": "Wes",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Wes"
+}, {
+    "id": 258,
+    "name": "The Lumineers",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "The Lumineers"
+}, {
+    "id": 259,
+    "name": "Guano Apes",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Guano Apes"
+}, {
+    "id": 260,
+    "name": "Dr. Alban",
+    "year_started": 1990,
+    "year_quit": null,
+    "text": "Dr. Alban"
+}, {
+    "id": 261,
+    "name": "Paul Young",
+    "year_started": 1978,
+    "year_quit": null,
+    "text": "Paul Young"
+}, {
+    "id": 262,
+    "name": "Therapy?",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "Therapy?"
+}, {
+    "id": 263,
+    "name": "Audio Bullys",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Audio Bullys"
+}, {
+    "id": 264,
+    "name": "Paul McCartney",
+    "year_started": 1957,
+    "year_quit": null,
+    "text": "Paul McCartney"
+}, {
+    "id": 265,
+    "name": "Jeckyll & Hyde",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Jeckyll & Hyde"
+}, {
+    "id": 266,
+    "name": "Backhouse Mike",
+    "year_started": 1990,
+    "year_quit": null,
+    "text": "Backhouse Mike"
+}, {
+    "id": 267,
+    "name": "Milk And Sugar",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "Milk And Sugar"
+}, {
+    "id": 268,
+    "name": "Maisie Peters",
+    "year_started": 1000,
+    "year_quit": null,
+    "text": "Maisie Peters"
+}, {
+    "id": 269,
+    "name": "Liquido",
+    "year_started": 1996,
+    "year_quit": 2009,
+    "text": "Liquido"
+}, {
+    "id": 270,
+    "name": "Hurts",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Hurts"
+}, {
+    "id": 271,
+    "name": "John Farnham",
+    "year_started": 1964,
+    "year_quit": null,
+    "text": "John Farnham"
+}, {
+    "id": 272,
+    "name": "Crazy Frog",
+    "year_started": 2003,
+    "year_quit": 2009,
+    "text": "Crazy Frog"
+}, {
+    "id": 273,
+    "name": "The Bony King of Nowhere",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "The Bony King of Nowhere"
+}, {
+    "id": 274,
+    "name": "Sioen",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "Sioen"
+}, {
+    "id": 275,
+    "name": "Coely",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Coely"
+}, {
+    "id": 277,
+    "name": "Guus Meeuwis",
+    "year_started": 1995,
+    "year_quit": null,
+    "text": "Guus Meeuwis"
+}, {
+    "id": 278,
+    "name": "Clean Bandit",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Clean Bandit"
+}, {
+    "id": 279,
+    "name": "The Proclaimers",
+    "year_started": 1983,
+    "year_quit": null,
+    "text": "The Proclaimers"
+}, {
+    "id": 280,
+    "name": "The xx",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "The xx"
+}, {
+    "id": 281,
+    "name": "Sigala",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Sigala"
+}, {
+    "id": 282,
+    "name": "Ella Eyre",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Ella Eyre"
+}, {
+    "id": 283,
+    "name": "Ty Dolla $ign",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Ty Dolla $ign"
+}, {
+    "id": 284,
+    "name": "Bryn Christopher",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "Bryn Christopher"
+}, {
+    "id": 287,
+    "name": "The Script",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "The Script"
+}, {
+    "id": 288,
+    "name": "will.i.am",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "will.i.am"
+}, {
+    "id": 289,
+    "name": "Jessie J",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Jessie J"
+}, {
+    "id": 290,
+    "name": "GALA",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "GALA"
+}, {
+    "id": 291,
+    "name": "Stereophonics",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Stereophonics"
+}, {
+    "id": 292,
+    "name": "Journey",
+    "year_started": 1973,
+    "year_quit": null,
+    "text": "Journey"
+}, {
+    "id": 293,
+    "name": "Dire Straits",
+    "year_started": 1977,
+    "year_quit": 1995,
+    "text": "Dire Straits"
+}, {
+    "id": 294,
+    "name": "Ed Sheeran",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Ed Sheeran"
+}, {
+    "id": 295,
+    "name": "Live",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "Live"
+}, {
+    "id": 296,
+    "name": "Lukas Graham",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Lukas Graham"
+}, {
+    "id": 297,
+    "name": "Meja",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Meja"
+}, {
+    "id": 298,
+    "name": "Vanessa Carlton",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Vanessa Carlton"
+}, {
+    "id": 299,
+    "name": "Yelle",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Yelle"
+}, {
+    "id": 300,
+    "name": "David Gray",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "David Gray"
+}, {
+    "id": 301,
+    "name": "Tegan and Sara",
+    "year_started": 1995,
+    "year_quit": null,
+    "text": "Tegan and Sara"
+}, {
+    "id": 302,
+    "name": "Noisettes",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Noisettes"
+}, {
+    "id": 303,
+    "name": "Donna Lewis",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Donna Lewis"
+}, {
+    "id": 304,
+    "name": "Het Zesde Metaal",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Het Zesde Metaal"
+}, {
+    "id": 305,
+    "name": "Tom Odell",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Tom Odell"
+}, {
+    "id": 306,
+    "name": "Nelly",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "Nelly"
+}, {
+    "id": 307,
+    "name": "Inner Circle",
+    "year_started": 1968,
+    "year_quit": null,
+    "text": "Inner Circle"
+}, {
+    "id": 308,
+    "name": "Matt Willis",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "Matt Willis"
+}, {
+    "id": 309,
+    "name": "Gyptian",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Gyptian"
+}, {
+    "id": 310,
+    "name": "Alesso",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Alesso"
+}, {
+    "id": 311,
+    "name": "Tove Lo",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Tove Lo"
+}, {
+    "id": 312,
+    "name": "Mohombi",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Mohombi"
+}, {
+    "id": 313,
+    "name": "Peter Gabriel",
+    "year_started": 1967,
+    "year_quit": null,
+    "text": "Peter Gabriel"
+}, {
+    "id": 314,
+    "name": "Umberto Tozzi",
+    "year_started": 1968,
+    "year_quit": null,
+    "text": "Umberto Tozzi"
+}, {
+    "id": 315,
+    "name": "Will Tura",
+    "year_started": 1955,
+    "year_quit": null,
+    "text": "Will Tura"
+}, {
+    "id": 316,
+    "name": "Owen Paul",
+    "year_started": 1986,
+    "year_quit": null,
+    "text": "Owen Paul"
+}, {
+    "id": 317,
+    "name": "Klaxons",
+    "year_started": 2005,
+    "year_quit": 2015,
+    "text": "Klaxons"
+}, {
+    "id": 318,
+    "name": "Depeche Mode",
+    "year_started": 1980,
+    "year_quit": null,
+    "text": "Depeche Mode"
+}, {
+    "id": 319,
+    "name": "Matt Nathanson",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "Matt Nathanson"
+}, {
+    "id": 320,
+    "name": "Otto Knows",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Otto Knows"
+}, {
+    "id": 321,
+    "name": "Cathy Heller",
+    "year_started": 1000,
+    "year_quit": null,
+    "text": "Cathy Heller"
+}, {
+    "id": 322,
+    "name": "Paul Sinha",
+    "year_started": 1000,
+    "year_quit": null,
+    "text": "Paul Sinha"
+}, {
+    "id": 323,
+    "name": "Teske",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Teske"
+}, {
+    "id": 324,
+    "name": "Tom Helsen",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Tom Helsen"
+}, {
+    "id": 325,
+    "name": "Stan Van Samang",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Stan Van Samang"
+}, {
+    "id": 326,
+    "name": "Xavier Rudd",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "Xavier Rudd"
+}, {
+    "id": 327,
+    "name": "Robert Miles",
+    "year_started": 1984,
+    "year_quit": 2012,
+    "text": "Robert Miles"
+}, {
+    "id": 328,
+    "name": "John Miles",
+    "year_started": 1970,
+    "year_quit": null,
+    "text": "John Miles"
+}, {
+    "id": 329,
+    "name": "Chesney Hawkes",
+    "year_started": 1990,
+    "year_quit": null,
+    "text": "Chesney Hawkes"
+}, {
+    "id": 330,
+    "name": "De Mens",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "De Mens"
+}, {
+    "id": 331,
+    "name": "Admiral Freebee",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "Admiral Freebee"
+}, {
+    "id": 332,
+    "name": "Axelle Red",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "Axelle Red"
+}, {
+    "id": 333,
+    "name": "Holger Czukay",
+    "year_started": 1968,
+    "year_quit": 2017,
+    "text": "Holger Czukay"
+}, {
+    "id": 334,
+    "name": "Tobu",
+    "year_started": 1000,
+    "year_quit": null,
+    "text": "Tobu"
+}, {
+    "id": 335,
+    "name": "Kygo",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Kygo"
+}, {
+    "id": 336,
+    "name": "Parson James",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Parson James"
+}, {
+    "id": 337,
+    "name": "Sia",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "Sia"
+}, {
+    "id": 338,
+    "name": "Sean Paul",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Sean Paul"
+}, {
+    "id": 339,
+    "name": "Van Morrison",
+    "year_started": 1958,
+    "year_quit": null,
+    "text": "Van Morrison"
+}, {
+    "id": 340,
+    "name": "Bush",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Bush"
+}, {
+    "id": 341,
+    "name": "Green Day",
+    "year_started": 1986,
+    "year_quit": null,
+    "text": "Green Day"
+}, {
+    "id": 342,
+    "name": "System of a Down",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "System of a Down"
+}, {
+    "id": 343,
+    "name": "London Grammar",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "London Grammar"
+}, {
+    "id": 344,
+    "name": "NEIKED",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "NEIKED"
+}, {
+    "id": 345,
+    "name": "Dyo",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Dyo"
+}, {
+    "id": 346,
+    "name": "The Jackson 5",
+    "year_started": 1964,
+    "year_quit": null,
+    "text": "The Jackson 5"
+}, {
+    "id": 347,
+    "name": "Sade",
+    "year_started": 1982,
+    "year_quit": 2011,
+    "text": "Sade"
+}, {
+    "id": 348,
+    "name": "Karen Damen",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Karen Damen"
+}, {
+    "id": 349,
+    "name": "Destiny's Child",
+    "year_started": 1997,
+    "year_quit": 2006,
+    "text": "Destiny's Child"
+}, {
+    "id": 350,
+    "name": "Bryan Adams",
+    "year_started": 1975,
+    "year_quit": null,
+    "text": "Bryan Adams"
+}, {
+    "id": 351,
+    "name": "Luis Fonsi",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Luis Fonsi"
+}, {
+    "id": 352,
+    "name": "Daddy Yankee",
+    "year_started": 1991,
+    "year_quit": null,
+    "text": "Daddy Yankee"
+}, {
+    "id": 353,
+    "name": "Bruno Mars",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Bruno Mars"
+}, {
+    "id": 354,
+    "name": "Migos",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Migos"
+}, {
+    "id": 355,
+    "name": "Lil Uzi Vert",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Lil Uzi Vert"
+}, {
+    "id": 356,
+    "name": "Halsey",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Halsey"
+}, {
+    "id": 357,
+    "name": "Sam Hunt",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Sam Hunt"
+}, {
+    "id": 358,
+    "name": "Imagine Dragons",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Imagine Dragons"
+}, {
+    "id": 359,
+    "name": "Post Malone",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Post Malone"
+}, {
+    "id": 360,
+    "name": "Quavo",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Quavo"
+}, {
+    "id": 361,
+    "name": "James Arthur",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "James Arthur"
+}, {
+    "id": 362,
+    "name": "DJ Khaled",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "DJ Khaled"
+}, {
+    "id": 363,
+    "name": "Chance the Rapper",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Chance the Rapper"
+}, {
+    "id": 364,
+    "name": "Lil Wayne",
+    "year_started": 1991,
+    "year_quit": null,
+    "text": "Lil Wayne"
+}, {
+    "id": 365,
+    "name": "Future",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Future"
+}, {
+    "id": 366,
+    "name": "French Montana",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "French Montana"
+}, {
+    "id": 367,
+    "name": "Swae Lee",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Swae Lee"
+}, {
+    "id": 368,
+    "name": "Dodgy",
+    "year_started": 1990,
+    "year_quit": null,
+    "text": "Dodgy"
+}, {
+    "id": 369,
+    "name": "Zedd",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "Zedd"
+}, {
+    "id": 370,
+    "name": "Bryson Tiller",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Bryson Tiller"
+}, {
+    "id": 371,
+    "name": "Rae Sremmurd",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Rae Sremmurd"
+}, {
+    "id": 372,
+    "name": "Gucci Mane",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Gucci Mane"
+}, {
+    "id": 373,
+    "name": "The Weeknd",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "The Weeknd"
+}, {
+    "id": 374,
+    "name": "The Lighthouse",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "The Lighthouse"
+}, {
+    "id": 375,
+    "name": "Iglu & Hartly",
+    "year_started": 2006,
+    "year_quit": 2011,
+    "text": "Iglu & Hartly"
+}, {
+    "id": 376,
+    "name": "Mura Masa",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Mura Masa"
+}, {
+    "id": 377,
+    "name": "A$AP Rocky",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "A$AP Rocky"
+}, {
+    "id": 378,
+    "name": "Sixpence None the Richer",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Sixpence None the Richer"
+}, {
+    "id": 379,
+    "name": "Dido",
+    "year_started": 1995,
+    "year_quit": null,
+    "text": "Dido"
+}, {
+    "id": 380,
+    "name": "George Harrison",
+    "year_started": 1958,
+    "year_quit": 2001,
+    "text": "George Harrison"
+}, {
+    "id": 381,
+    "name": "The Spooks",
+    "year_started": 1994,
+    "year_quit": 2005,
+    "text": "The Spooks"
+}, {
+    "id": 382,
+    "name": "Miley Cyrus",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Miley Cyrus"
+}, {
+    "id": 383,
+    "name": "Metro Station",
+    "year_started": 2006,
+    "year_quit": 2017,
+    "text": "Metro Station"
+}, {
+    "id": 384,
+    "name": "Jake Bugg",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Jake Bugg"
+}, {
+    "id": 385,
+    "name": "Melissa Etheridge",
+    "year_started": 1985,
+    "year_quit": null,
+    "text": "Melissa Etheridge"
+}, {
+    "id": 386,
+    "name": "Lisa Stansfield",
+    "year_started": 1981,
+    "year_quit": null,
+    "text": "Lisa Stansfield"
+}, {
+    "id": 387,
+    "name": "Tol & Tol",
+    "year_started": 1990,
+    "year_quit": null,
+    "text": "Tol & Tol"
+}, {
+    "id": 388,
+    "name": "2 Live Crew",
+    "year_started": 1982,
+    "year_quit": 2010,
+    "text": "2 Live Crew"
+}, {
+    "id": 389,
+    "name": "Sin\u00e9ad O'Connor",
+    "year_started": 1986,
+    "year_quit": null,
+    "text": "Sin\u00e9ad O'Connor"
+}, {
+    "id": 390,
+    "name": "Bot1 & Mitte",
+    "year_started": 2017,
+    "year_quit": null,
+    "text": "Bot1 & Mitte"
+}, {
+    "id": 391,
+    "name": "John Kenza",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "John Kenza"
+}, {
+    "id": 392,
+    "name": "Gene Thomas",
+    "year_started": 1995,
+    "year_quit": 2012,
+    "text": "Gene Thomas"
+}, {
+    "id": 393,
+    "name": "Adele",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Adele"
+}, {
+    "id": 394,
+    "name": "Alicia Keys",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Alicia Keys"
+}, {
+    "id": 395,
+    "name": "Martin Solveig",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Martin Solveig"
+}, {
+    "id": 396,
+    "name": "Amy Winehouse",
+    "year_started": 2003,
+    "year_quit": 2011,
+    "text": "Amy Winehouse"
+}, {
+    "id": 397,
+    "name": "Wilson Phillips",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "Wilson Phillips"
+}, {
+    "id": 398,
+    "name": "Roxette",
+    "year_started": 1986,
+    "year_quit": null,
+    "text": "Roxette"
+}, {
+    "id": 399,
+    "name": "Bell Biv DeVoe",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "Bell Biv DeVoe"
+}, {
+    "id": 400,
+    "name": "Mariah Carey",
+    "year_started": 1988,
+    "year_quit": null,
+    "text": "Mariah Carey"
+}, {
+    "id": 401,
+    "name": "En Vogue",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "En Vogue"
+}, {
+    "id": 402,
+    "name": "Suzanne Vega",
+    "year_started": 1982,
+    "year_quit": null,
+    "text": "Suzanne Vega"
+}, {
+    "id": 403,
+    "name": "Bob Sinclar",
+    "year_started": 1987,
+    "year_quit": null,
+    "text": "Bob Sinclar"
+}, {
+    "id": 404,
+    "name": "Cutee B",
+    "year_started": 1995,
+    "year_quit": null,
+    "text": "Cutee B"
+}, {
+    "id": 405,
+    "name": "Gary Pine",
+    "year_started": 1995,
+    "year_quit": null,
+    "text": "Gary Pine"
+}, {
+    "id": 406,
+    "name": "Steve Edwards",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "Steve Edwards"
+}, {
+    "id": 407,
+    "name": "K3",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "K3"
+}, {
+    "id": 408,
+    "name": "Taylor Swift",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Taylor Swift"
+}, {
+    "id": 409,
+    "name": "Charlie Puth",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Charlie Puth"
+}, {
+    "id": 410,
+    "name": "Demi Lovato",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "Demi Lovato"
+}, {
+    "id": 411,
+    "name": "Cardi B",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Cardi B"
+}, {
+    "id": 412,
+    "name": "Niall Horan",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Niall Horan"
+}, {
+    "id": 413,
+    "name": "SZA",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "SZA"
+}, {
+    "id": 414,
+    "name": "Portugal. The Man",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Portugal. The Man"
+}, {
+    "id": 415,
+    "name": "Liam Payne",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Liam Payne"
+}, {
+    "id": 416,
+    "name": "Yo Gotti",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "Yo Gotti"
+}, {
+    "id": 417,
+    "name": "Marc Cohn",
+    "year_started": 1986,
+    "year_quit": null,
+    "text": "Marc Cohn"
+}, {
+    "id": 418,
+    "name": "Ke$ha",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Ke$ha"
+}, {
+    "id": 419,
+    "name": "Earth, Wind & Fire",
+    "year_started": 1969,
+    "year_quit": null,
+    "text": "Earth, Wind & Fire"
+}, {
+    "id": 420,
+    "name": "Michelle Branch",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Michelle Branch"
+}, {
+    "id": 421,
+    "name": "Londonbeat",
+    "year_started": 1988,
+    "year_quit": null,
+    "text": "Londonbeat"
+}, {
+    "id": 422,
+    "name": "Ratata",
+    "year_started": 1983,
+    "year_quit": 1989,
+    "text": "Ratata"
+}, {
+    "id": 423,
+    "name": "Eva Dahlgren",
+    "year_started": 1978,
+    "year_quit": null,
+    "text": "Eva Dahlgren"
+}, {
+    "id": 424,
+    "name": "Richard Thompson",
+    "year_started": 1967,
+    "year_quit": null,
+    "text": "Richard Thompson"
+}, {
+    "id": 425,
+    "name": "BL\u00d8F",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "BL\u00d8F"
+}, {
+    "id": 426,
+    "name": "Geike Arnaert",
+    "year_started": 1997,
+    "year_quit": 2008,
+    "text": "Geike Arnaert"
+}, {
+    "id": 427,
+    "name": "Harry Styles",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Harry Styles"
+}, {
+    "id": 428,
+    "name": "The Belle Stars",
+    "year_started": 1980,
+    "year_quit": 1986,
+    "text": "The Belle Stars"
+}, {
+    "id": 429,
+    "name": "Mumford & Sons",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Mumford & Sons"
+}, {
+    "id": 430,
+    "name": "Compact Disk Dummies",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Compact Disk Dummies"
+}, {
+    "id": 431,
+    "name": "Yves Paquet",
+    "year_started": 2017,
+    "year_quit": null,
+    "text": "Yves Paquet"
+}, {
+    "id": 432,
+    "name": "John Mellencamp",
+    "year_started": 1976,
+    "year_quit": null,
+    "text": "John Mellencamp"
+}, {
+    "id": 433,
+    "name": "Corry Konings",
+    "year_started": 1969,
+    "year_quit": null,
+    "text": "Corry Konings"
+}, {
+    "id": 434,
+    "name": "Yasmine",
+    "year_started": 1990,
+    "year_quit": 2009,
+    "text": "Yasmine"
+}, {
+    "id": 435,
+    "name": "Vaya Con Dios",
+    "year_started": 1986,
+    "year_quit": 2014,
+    "text": "Vaya Con Dios"
+}, {
+    "id": 436,
+    "name": "MC Hammer",
+    "year_started": 1985,
+    "year_quit": null,
+    "text": "MC Hammer"
+}, {
+    "id": 437,
+    "name": "Snap!",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "Snap!"
+}, {
+    "id": 438,
+    "name": "Clouseau",
+    "year_started": 1984,
+    "year_quit": null,
+    "text": "Clouseau"
+}, {
+    "id": 439,
+    "name": "Elton John",
+    "year_started": 1967,
+    "year_quit": null,
+    "text": "Elton John"
+}, {
+    "id": 440,
+    "name": "Milo Meskens",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Milo Meskens"
+}, {
+    "id": 441,
+    "name": "Massive Attack",
+    "year_started": 1988,
+    "year_quit": null,
+    "text": "Massive Attack"
+}, {
+    "id": 442,
+    "name": "Big Time Rush",
+    "year_started": 2009,
+    "year_quit": 2013,
+    "text": "Big Time Rush"
+}, {
+    "id": 443,
+    "name": "Snoop Dogg",
+    "year_started": 1991,
+    "year_quit": null,
+    "text": "Snoop Dogg"
+}, {
+    "id": 444,
+    "name": "Iyaz",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Iyaz"
+}, {
+    "id": 445,
+    "name": "Blur",
+    "year_started": 1988,
+    "year_quit": null,
+    "text": "Blur"
+}, {
+    "id": 446,
+    "name": "Mann",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Mann"
+}, {
+    "id": 447,
+    "name": "Bros",
+    "year_started": 1986,
+    "year_quit": null,
+    "text": "Bros"
+}, {
+    "id": 448,
+    "name": "Diana Ross",
+    "year_started": 1959,
+    "year_quit": null,
+    "text": "Diana Ross"
+}, {
+    "id": 449,
+    "name": "U2",
+    "year_started": 1976,
+    "year_quit": null,
+    "text": "U2"
+}, {
+    "id": 450,
+    "name": "Emma Shapplin",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "Emma Shapplin"
+}, {
+    "id": 451,
+    "name": "Drake",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Drake"
+}, {
+    "id": 452,
+    "name": "Skrillex",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Skrillex"
+}, {
+    "id": 453,
+    "name": "PSY",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "PSY"
+}, {
+    "id": 454,
+    "name": "Hot Chelle Rae",
+    "year_started": 2005,
+    "year_quit": 2014,
+    "text": "Hot Chelle Rae"
+}, {
+    "id": 455,
+    "name": "New Boyz",
+    "year_started": 2009,
+    "year_quit": 2013,
+    "text": "New Boyz"
+}, {
+    "id": 456,
+    "name": "Scouting for Girls",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Scouting for Girls"
+}, {
+    "id": 457,
+    "name": "Five for Fighting",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "Five for Fighting"
+}, {
+    "id": 458,
+    "name": "France Gall",
+    "year_started": 1963,
+    "year_quit": 1977,
+    "text": "France Gall"
+}, {
+    "id": 459,
+    "name": "Anouk",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Anouk"
+}, {
+    "id": 460,
+    "name": "Aloha from Hell",
+    "year_started": 2008,
+    "year_quit": 2010,
+    "text": "Aloha from Hell"
+}, {
+    "id": 461,
+    "name": "Pharrell Williams",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Pharrell Williams"
+}, {
+    "id": 462,
+    "name": "Dieter von Deurne & The Politics",
+    "year_started": 1000,
+    "year_quit": null,
+    "text": "Dieter von Deurne & The Politics"
+}, {
+    "id": 463,
+    "name": "Tina Turner",
+    "year_started": 1958,
+    "year_quit": null,
+    "text": "Tina Turner"
+}, {
+    "id": 464,
+    "name": "Crystal Fighters",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Crystal Fighters"
+}, {
+    "id": 465,
+    "name": "Brick & Lace",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Brick & Lace"
+}, {
+    "id": 466,
+    "name": "Placebo",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Placebo"
+}, {
+    "id": 467,
+    "name": "The Cure",
+    "year_started": 1976,
+    "year_quit": null,
+    "text": "The Cure"
+}, {
+    "id": 468,
+    "name": "The Police",
+    "year_started": 1977,
+    "year_quit": 2008,
+    "text": "The Police"
+}, {
+    "id": 469,
+    "name": "Neil Young",
+    "year_started": 1960,
+    "year_quit": null,
+    "text": "Neil Young"
+}, {
+    "id": 470,
+    "name": "Patti Smith",
+    "year_started": 1971,
+    "year_quit": null,
+    "text": "Patti Smith"
+}, {
+    "id": 471,
+    "name": "The Streets",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "The Streets"
+}, {
+    "id": 472,
+    "name": "B.B. King",
+    "year_started": 1948,
+    "year_quit": 2015,
+    "text": "B.B. King"
+}, {
+    "id": 473,
+    "name": "Luciano Pavarotti",
+    "year_started": 1955,
+    "year_quit": 2006,
+    "text": "Luciano Pavarotti"
+}, {
+    "id": 474,
+    "name": "Milk Inc.",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Milk Inc."
+}, {
+    "id": 475,
+    "name": "Martha Wainwright",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Martha Wainwright"
+}, {
+    "id": 476,
+    "name": "Gotye",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Gotye"
+}, {
+    "id": 477,
+    "name": "Kimbra",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "Kimbra"
+}, {
+    "id": 478,
+    "name": "Radiohead",
+    "year_started": 1985,
+    "year_quit": null,
+    "text": "Radiohead"
+}, {
+    "id": 479,
+    "name": "Interpol",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "Interpol"
+}, {
+    "id": 480,
+    "name": "Paul Garzon",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Paul Garzon"
+}, {
+    "id": 481,
+    "name": "Fifth Harmony",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Fifth Harmony"
+}, {
+    "id": 482,
+    "name": "Yelawolf",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Yelawolf"
+}, {
+    "id": 483,
+    "name": "David Bowie",
+    "year_started": 1962,
+    "year_quit": 2016,
+    "text": "David Bowie"
+}, {
+    "id": 484,
+    "name": "Bananarama",
+    "year_started": 1981,
+    "year_quit": null,
+    "text": "Bananarama"
+}, {
+    "id": 485,
+    "name": "Tame Impala",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Tame Impala"
+}, {
+    "id": 486,
+    "name": "Avicii",
+    "year_started": 2006,
+    "year_quit": 2018,
+    "text": "Avicii"
+}, {
+    "id": 487,
+    "name": "Netsky",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Netsky"
+}, {
+    "id": 488,
+    "name": "Digital Farm Animals",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Digital Farm Animals"
+}, {
+    "id": 489,
+    "name": "Calvin Harris",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "Calvin Harris"
+}, {
+    "id": 490,
+    "name": "Ellie Goulding",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Ellie Goulding"
+}, {
+    "id": 491,
+    "name": "Sweet",
+    "year_started": 1968,
+    "year_quit": 1981,
+    "text": "Sweet"
+}, {
+    "id": 492,
+    "name": "Sweet",
+    "year_started": 1985,
+    "year_quit": null,
+    "text": "Sweet"
+}, {
+    "id": 493,
+    "name": "The Prodigy",
+    "year_started": 1990,
+    "year_quit": null,
+    "text": "The Prodigy"
+}, {
+    "id": 494,
+    "name": "Belle P\u00e9rez",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Belle P\u00e9rez"
+}, {
+    "id": 495,
+    "name": "Orchestral Manoeuvres in the Dark",
+    "year_started": 1978,
+    "year_quit": null,
+    "text": "Orchestral Manoeuvres in the Dark"
+}, {
+    "id": 496,
+    "name": "Volbeat",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Volbeat"
+}, {
+    "id": 497,
+    "name": "Paul & Fritz Kalkbrenner",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Paul & Fritz Kalkbrenner"
+}, {
+    "id": 498,
+    "name": "Bazzi",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Bazzi"
+}, {
+    "id": 499,
+    "name": "Lauryn Hill",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "Lauryn Hill"
+}, {
+    "id": 500,
+    "name": "Nathaniel Rateliff & the Night Sweats",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Nathaniel Rateliff & the Night Sweats"
+}, {
+    "id": 501,
+    "name": "Infinity Ink",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Infinity Ink"
+}, {
+    "id": 502,
+    "name": "Eurythmics",
+    "year_started": 1980,
+    "year_quit": 2005,
+    "text": "Eurythmics"
+}, {
+    "id": 503,
+    "name": "Led Zeppelin",
+    "year_started": 1968,
+    "year_quit": 1980,
+    "text": "Led Zeppelin"
+}, {
+    "id": 504,
+    "name": "Supermode",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Supermode"
+}, {
+    "id": 505,
+    "name": "Toto",
+    "year_started": 1976,
+    "year_quit": null,
+    "text": "Toto"
+}, {
+    "id": 506,
+    "name": "Bob Dylan",
+    "year_started": 1959,
+    "year_quit": null,
+    "text": "Bob Dylan"
+}, {
+    "id": 507,
+    "name": "A Great Big World",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "A Great Big World"
+}, {
+    "id": 508,
+    "name": "Mario Vitalino Dos Santos",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Mario Vitalino Dos Santos"
+}, {
+    "id": 509,
+    "name": "Shawn Smith",
+    "year_started": 1991,
+    "year_quit": null,
+    "text": "Shawn Smith"
+}, {
+    "id": 510,
+    "name": "Tim Bruzon",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Tim Bruzon"
+}, {
+    "id": 511,
+    "name": "Lydmor",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Lydmor"
+}, {
+    "id": 512,
+    "name": "John Newman",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "John Newman"
+}, {
+    "id": 513,
+    "name": "Nile Rodgers",
+    "year_started": 1970,
+    "year_quit": null,
+    "text": "Nile Rodgers"
+}, {
+    "id": 514,
+    "name": "Richard Marx",
+    "year_started": 1980,
+    "year_quit": null,
+    "text": "Richard Marx"
+}, {
+    "id": 515,
+    "name": "Pilot",
+    "year_started": 1973,
+    "year_quit": 1977,
+    "text": "Pilot"
+}, {
+    "id": 516,
+    "name": "Within Temptation",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Within Temptation"
+}, {
+    "id": 517,
+    "name": "Evanescence",
+    "year_started": 1995,
+    "year_quit": null,
+    "text": "Evanescence"
+}, {
+    "id": 518,
+    "name": "Camila Cabello",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Camila Cabello"
+}, {
+    "id": 519,
+    "name": "Young Thug",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Young Thug"
+}, {
+    "id": 520,
+    "name": "Royal Blood",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Royal Blood"
+}, {
+    "id": 521,
+    "name": "L\u00fctzenkirchen",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "L\u00fctzenkirchen"
+}, {
+    "id": 522,
+    "name": "King Princess",
+    "year_started": 2018,
+    "year_quit": null,
+    "text": "King Princess"
+}, {
+    "id": 523,
+    "name": "Ben Howard",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Ben Howard"
+}, {
+    "id": 524,
+    "name": "GTA",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "GTA"
+}, {
+    "id": 525,
+    "name": "Disturbed",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Disturbed"
+}, {
+    "id": 526,
+    "name": "Selena Gomez",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "Selena Gomez"
+}, {
+    "id": 527,
+    "name": "P!nk",
+    "year_started": 1995,
+    "year_quit": null,
+    "text": "P!nk"
+}, {
+    "id": 528,
+    "name": "Kensington",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Kensington"
+}, {
+    "id": 529,
+    "name": "Lady Gaga",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Lady Gaga"
+}, {
+    "id": 530,
+    "name": "Armin van Buuren",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Armin van Buuren"
+}, {
+    "id": 531,
+    "name": "Josh Cumbee",
+    "year_started": 1000,
+    "year_quit": null,
+    "text": "Josh Cumbee"
+}, {
+    "id": 532,
+    "name": "AJR",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "AJR"
+}, {
+    "id": 533,
+    "name": "Rag'n'Bone Man",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Rag'n'Bone Man"
+}, {
+    "id": 534,
+    "name": "Rita Ora",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Rita Ora"
+}, {
+    "id": 535,
+    "name": "Martin Garrix",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Martin Garrix"
+}, {
+    "id": 536,
+    "name": "Vinchenzo",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "Vinchenzo"
+}, {
+    "id": 537,
+    "name": "Lucas & Steve",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Lucas & Steve"
+}, {
+    "id": 538,
+    "name": "Louis Tomlinson",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Louis Tomlinson"
+}, {
+    "id": 539,
+    "name": "Bebe Rexha",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Bebe Rexha"
+}, {
+    "id": 540,
+    "name": "Jonas Blue",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Jonas Blue"
+}, {
+    "id": 541,
+    "name": "William Singe",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "William Singe"
+}, {
+    "id": 542,
+    "name": "John Mayer",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "John Mayer"
+}, {
+    "id": 543,
+    "name": "Florida Georgia Line",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Florida Georgia Line"
+}, {
+    "id": 544,
+    "name": "Maren Morris",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Maren Morris"
+}, {
+    "id": 545,
+    "name": "Grey",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Grey"
+}, {
+    "id": 546,
+    "name": "Bastille",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Bastille"
+}, {
+    "id": 547,
+    "name": "Ou Est le Swimming Pool",
+    "year_started": 2009,
+    "year_quit": 2010,
+    "text": "Ou Est le Swimming Pool"
+}, {
+    "id": 548,
+    "name": "De Jeugd van Tegenwoordig",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "De Jeugd van Tegenwoordig"
+}, {
+    "id": 549,
+    "name": "Arctic Monkeys",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "Arctic Monkeys"
+}, {
+    "id": 550,
+    "name": "Emma Bale",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Emma Bale"
+}, {
+    "id": 551,
+    "name": "Crookers",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Crookers"
+}, {
+    "id": 552,
+    "name": "Justin Timberlake",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Justin Timberlake"
+}, {
+    "id": 553,
+    "name": "Chris Stapleton",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Chris Stapleton"
+}, {
+    "id": 554,
+    "name": "Sandro Cavazza",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Sandro Cavazza"
+}, {
+    "id": 555,
+    "name": "Selah Sue",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Selah Sue"
+}, {
+    "id": 556,
+    "name": "Jace Everett",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Jace Everett"
+}, {
+    "id": 557,
+    "name": "Rudimental",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Rudimental"
+}, {
+    "id": 558,
+    "name": "Macklemore",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "Macklemore"
+}, {
+    "id": 559,
+    "name": "Jess Glynne",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Jess Glynne"
+}, {
+    "id": 560,
+    "name": "Dan Caplen",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Dan Caplen"
+}, {
+    "id": 561,
+    "name": "Novastar",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Novastar"
+}, {
+    "id": 562,
+    "name": "Bunny",
+    "year_started": 1000,
+    "year_quit": null,
+    "text": "Bunny"
+}, {
+    "id": 563,
+    "name": "DJ Snake",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "DJ Snake"
+}, {
+    "id": 564,
+    "name": "Bipolar Sunshine",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Bipolar Sunshine"
+}, {
+    "id": 565,
+    "name": "Marshmello",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Marshmello"
+}, {
+    "id": 566,
+    "name": "Ariana Grande",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Ariana Grande"
+}, {
+    "id": 567,
+    "name": "Meghan Trainor",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Meghan Trainor"
+}, {
+    "id": 568,
+    "name": "Zayn",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Zayn"
+}, {
+    "id": 569,
+    "name": "Normani",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Normani"
+}, {
+    "id": 570,
+    "name": "Kehlani",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Kehlani"
+}, {
+    "id": 571,
+    "name": "Ozark Henry",
+    "year_started": 1995,
+    "year_quit": null,
+    "text": "Ozark Henry"
+}, {
+    "id": 572,
+    "name": "Katy Perry",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Katy Perry"
+}, {
+    "id": 573,
+    "name": "Big Sean",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Big Sean"
+}, {
+    "id": 574,
+    "name": "Frank Ocean",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Frank Ocean"
+}, {
+    "id": 575,
+    "name": "Maroon 5",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Maroon 5"
+}, {
+    "id": 576,
+    "name": "Nicki Minaj",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Nicki Minaj"
+}, {
+    "id": 577,
+    "name": "Skip Marley",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Skip Marley"
+}, {
+    "id": 578,
+    "name": "The Romantics",
+    "year_started": 1977,
+    "year_quit": null,
+    "text": "The Romantics"
+}, {
+    "id": 579,
+    "name": "Jax Jones",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Jax Jones"
+}, {
+    "id": 580,
+    "name": "Ina Wroldsen",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Ina Wroldsen"
+}, {
+    "id": 581,
+    "name": "Becky G",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Becky G"
+}, {
+    "id": 582,
+    "name": "Drew Love",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Drew Love"
+}, {
+    "id": 583,
+    "name": "Charli XCX",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Charli XCX"
+}, {
+    "id": 584,
+    "name": "Lana Del Rey",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Lana Del Rey"
+}, {
+    "id": 585,
+    "name": "Sampha",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Sampha"
+}, {
+    "id": 586,
+    "name": "Travis Scott",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Travis Scott"
+}, {
+    "id": 587,
+    "name": "Julia Michaels",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Julia Michaels"
+}, {
+    "id": 588,
+    "name": "Kyla",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "Kyla"
+}, {
+    "id": 589,
+    "name": "Wizkid",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Wizkid"
+}, {
+    "id": 590,
+    "name": "The-Dream",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "The-Dream"
+}, {
+    "id": 591,
+    "name": "Kelly Price",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Kelly Price"
+}, {
+    "id": 592,
+    "name": "Kirk Franklin",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Kirk Franklin"
+}, {
+    "id": 593,
+    "name": "Natalie Green",
+    "year_started": 1000,
+    "year_quit": null,
+    "text": "Natalie Green"
+}, {
+    "id": 594,
+    "name": "Samoria Green",
+    "year_started": 1000,
+    "year_quit": null,
+    "text": "Samoria Green"
+}, {
+    "id": 595,
+    "name": "Desiigner",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Desiigner"
+}, {
+    "id": 596,
+    "name": "Caroline Shaw",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Caroline Shaw"
+}, {
+    "id": 597,
+    "name": "Daya",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Daya"
+}, {
+    "id": 598,
+    "name": "Diplo",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "Diplo"
+}, {
+    "id": 599,
+    "name": "Jillionaire",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Jillionaire"
+}, {
+    "id": 600,
+    "name": "Walshy Fire",
+    "year_started": 1000,
+    "year_quit": null,
+    "text": "Walshy Fire"
+}, {
+    "id": 601,
+    "name": "Switch",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Switch"
+}, {
+    "id": 602,
+    "name": "Major Lazer",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Major Lazer"
+}, {
+    "id": 603,
+    "name": "Safri Duo",
+    "year_started": 1990,
+    "year_quit": null,
+    "text": "Safri Duo"
+}, {
+    "id": 604,
+    "name": "Robyn",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "Robyn"
+}, {
+    "id": 605,
+    "name": "Swizz Beatz",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Swizz Beatz"
+}, {
+    "id": 606,
+    "name": "Sister Nancy",
+    "year_started": 1982,
+    "year_quit": null,
+    "text": "Sister Nancy"
+}, {
+    "id": 607,
+    "name": "Nina Simone",
+    "year_started": 1954,
+    "year_quit": 2003,
+    "text": "Nina Simone"
+}, {
+    "id": 608,
+    "name": "Flo Rida",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "Flo Rida"
+}, {
+    "id": 609,
+    "name": "T-Pain",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "T-Pain"
+}, {
+    "id": 610,
+    "name": "Little Mix",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Little Mix"
+}, {
+    "id": 611,
+    "name": "Kiiara",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Kiiara"
+}, {
+    "id": 612,
+    "name": "Bloodhound Gang",
+    "year_started": 1988,
+    "year_quit": 2015,
+    "text": "Bloodhound Gang"
+}, {
+    "id": 613,
+    "name": "Steve Miller Band",
+    "year_started": 1966,
+    "year_quit": null,
+    "text": "Steve Miller Band"
+}, {
+    "id": 614,
+    "name": "Mike Posner",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Mike Posner"
+}, {
+    "id": 615,
+    "name": "Flume",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Flume"
+}, {
+    "id": 616,
+    "name": "Kai",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Kai"
+}, {
+    "id": 617,
+    "name": "Kevin Gates",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Kevin Gates"
+}, {
+    "id": 618,
+    "name": "Bon Iver",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Bon Iver"
+}, {
+    "id": 619,
+    "name": "Twenty One Pilots",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Twenty One Pilots"
+}, {
+    "id": 620,
+    "name": "Iggy Pop",
+    "year_started": 1960,
+    "year_quit": null,
+    "text": "Iggy Pop"
+}, {
+    "id": 621,
+    "name": "A Tribe Called Quest",
+    "year_started": 1985,
+    "year_quit": 2017,
+    "text": "A Tribe Called Quest"
+}, {
+    "id": 622,
+    "name": "Whitney",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Whitney"
+}, {
+    "id": 623,
+    "name": "Fetty Wap",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Fetty Wap"
+}, {
+    "id": 624,
+    "name": "Wiz Khalifa",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Wiz Khalifa"
+}, {
+    "id": 625,
+    "name": "OMI",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "OMI"
+}, {
+    "id": 626,
+    "name": "Disciples",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Disciples"
+}, {
+    "id": 627,
+    "name": "Jennifer Lopez",
+    "year_started": 1986,
+    "year_quit": null,
+    "text": "Jennifer Lopez"
+}, {
+    "id": 628,
+    "name": "Tom Walker",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Tom Walker"
+}, {
+    "id": 629,
+    "name": "Nicky Jam",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Nicky Jam"
+}, {
+    "id": 630,
+    "name": "J Balvin",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "J Balvin"
+}, {
+    "id": 631,
+    "name": "Miguel",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "Miguel"
+}, {
+    "id": 632,
+    "name": "Ma\u00eetre Gims",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "Ma\u00eetre Gims"
+}, {
+    "id": 633,
+    "name": "Vianney",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Vianney"
+}, {
+    "id": 634,
+    "name": "Lost Frequencies",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Lost Frequencies"
+}, {
+    "id": 635,
+    "name": "K's Choice",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "K's Choice"
+}, {
+    "id": 636,
+    "name": "Oscar and the Wolf",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Oscar and the Wolf"
+}, {
+    "id": 637,
+    "name": "Matt Simons",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Matt Simons"
+}, {
+    "id": 638,
+    "name": "Bad Bunny",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Bad Bunny"
+}, {
+    "id": 639,
+    "name": "Florence + the Machine",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Florence + the Machine"
+}, {
+    "id": 640,
+    "name": "Years & Years",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Years & Years"
+}, {
+    "id": 641,
+    "name": "Kiesza",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Kiesza"
+}, {
+    "id": 642,
+    "name": "Kris Kross",
+    "year_started": 1991,
+    "year_quit": 2013,
+    "text": "Kris Kross"
+}, {
+    "id": 643,
+    "name": "Symmetry",
+    "year_started": 1000,
+    "year_quit": null,
+    "text": "Symmetry"
+}, {
+    "id": 644,
+    "name": "Culture Beat",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "Culture Beat"
+}, {
+    "id": 645,
+    "name": "The Velvet Underground",
+    "year_started": 1964,
+    "year_quit": 1996,
+    "text": "The Velvet Underground"
+}, {
+    "id": 646,
+    "name": "Spin Doctors",
+    "year_started": 1988,
+    "year_quit": null,
+    "text": "Spin Doctors"
+}, {
+    "id": 647,
+    "name": "Belinda Carlisle",
+    "year_started": 1977,
+    "year_quit": null,
+    "text": "Belinda Carlisle"
+}, {
+    "id": 648,
+    "name": "American Authors",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "American Authors"
+}, {
+    "id": 649,
+    "name": "L\u00e5psley",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "L\u00e5psley"
+}, {
+    "id": 650,
+    "name": "Martha Bean",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Martha Bean"
+}, {
+    "id": 651,
+    "name": "Jez Burns",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Jez Burns"
+}, {
+    "id": 652,
+    "name": "Fleet Foxes",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Fleet Foxes"
+}, {
+    "id": 653,
+    "name": "Anthony Vanderburgh",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Anthony Vanderburgh"
+}, {
+    "id": 654,
+    "name": "Alanis Morissette",
+    "year_started": 1983,
+    "year_quit": null,
+    "text": "Alanis Morissette"
+}, {
+    "id": 655,
+    "name": "Golden Earring",
+    "year_started": 1961,
+    "year_quit": null,
+    "text": "Golden Earring"
+}, {
+    "id": 656,
+    "name": "Eva Simons",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Eva Simons"
+}, {
+    "id": 657,
+    "name": "CeeLo Green",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "CeeLo Green"
+}, {
+    "id": 658,
+    "name": "Lil Baby",
+    "year_started": 2017,
+    "year_quit": null,
+    "text": "Lil Baby"
+}, {
+    "id": 659,
+    "name": "6lack",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "6lack"
+}, {
+    "id": 660,
+    "name": "BVD KULT & OT",
+    "year_started": null,
+    "year_quit": null,
+    "text": "BVD KULT & OT"
+}, {
+    "id": 661,
+    "name": "August Rigo",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "August Rigo"
+}, {
+    "id": 662,
+    "name": "Alan Walker",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Alan Walker"
+}, {
+    "id": 663,
+    "name": "Nyla",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Nyla"
+}, {
+    "id": 664,
+    "name": "Fuse ODG",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Fuse ODG"
+}, {
+    "id": 665,
+    "name": "Kungs",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Kungs"
+}, {
+    "id": 666,
+    "name": "Cookin' on 3 Burners",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "Cookin' on 3 Burners"
+}, {
+    "id": 667,
+    "name": "JP Cooper",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "JP Cooper"
+}, {
+    "id": 668,
+    "name": "Dakota",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Dakota"
+}, {
+    "id": 669,
+    "name": "Enrique Iglesias",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Enrique Iglesias"
+}, {
+    "id": 670,
+    "name": "Wisin",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Wisin"
+}, {
+    "id": 671,
+    "name": "Maty Noyes",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Maty Noyes"
+}, {
+    "id": 672,
+    "name": "Hailee Steinfeld",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Hailee Steinfeld"
+}, {
+    "id": 673,
+    "name": "Tinie Tempah",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Tinie Tempah"
+}, {
+    "id": 674,
+    "name": "Francesco Yates",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Francesco Yates"
+}, {
+    "id": 675,
+    "name": "Silent\u00f3",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Silent\u00f3"
+}, {
+    "id": 676,
+    "name": "Hozier",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Hozier"
+}, {
+    "id": 677,
+    "name": "Rachel Platten",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Rachel Platten"
+}, {
+    "id": 678,
+    "name": "Remy Boyz",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Remy Boyz"
+}, {
+    "id": 679,
+    "name": "Kid Ink",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Kid Ink"
+}, {
+    "id": 680,
+    "name": "Afrojack",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Afrojack"
+}, {
+    "id": 681,
+    "name": "Fall Out Boy",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Fall Out Boy"
+}, {
+    "id": 682,
+    "name": "Chris Brown",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Chris Brown"
+}, {
+    "id": 683,
+    "name": "John Legend",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "John Legend"
+}, {
+    "id": 684,
+    "name": "Tyga",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Tyga"
+}, {
+    "id": 685,
+    "name": "Offset",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Offset"
+}, {
+    "id": 686,
+    "name": "George Ezra",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "George Ezra"
+}, {
+    "id": 687,
+    "name": "Juicy J",
+    "year_started": 1991,
+    "year_quit": null,
+    "text": "Juicy J"
+}, {
+    "id": 688,
+    "name": "OneRepublic",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "OneRepublic"
+}, {
+    "id": 689,
+    "name": "Dotan",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Dotan"
+}, {
+    "id": 690,
+    "name": "Wrabel",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Wrabel"
+}, {
+    "id": 691,
+    "name": "Iggy Azalea",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Iggy Azalea"
+}, {
+    "id": 692,
+    "name": "The Automatic",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "The Automatic"
+}, {
+    "id": 693,
+    "name": "Kylie Minogue",
+    "year_started": 1979,
+    "year_quit": null,
+    "text": "Kylie Minogue"
+}, {
+    "id": 694,
+    "name": "Britney Spears",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Britney Spears"
+}, {
+    "id": 695,
+    "name": "Cookie Dingler",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Cookie Dingler"
+}, {
+    "id": 696,
+    "name": "Don Henley",
+    "year_started": 1970,
+    "year_quit": null,
+    "text": "Don Henley"
+}, {
+    "id": 697,
+    "name": "Quincy Jones",
+    "year_started": 1951,
+    "year_quit": null,
+    "text": "Quincy Jones"
+}, {
+    "id": 698,
+    "name": "Sigur R\u00f3s",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Sigur R\u00f3s"
+}, {
+    "id": 699,
+    "name": "Adamski",
+    "year_started": 1979,
+    "year_quit": null,
+    "text": "Adamski"
+}, {
+    "id": 700,
+    "name": "Seal",
+    "year_started": 1987,
+    "year_quit": null,
+    "text": "Seal"
+}, {
+    "id": 701,
+    "name": "Lucy Pearl",
+    "year_started": 1999,
+    "year_quit": 2002,
+    "text": "Lucy Pearl"
+}, {
+    "id": 702,
+    "name": "TC Matic",
+    "year_started": 1980,
+    "year_quit": 1986,
+    "text": "TC Matic"
+}, {
+    "id": 704,
+    "name": "Damien Rice",
+    "year_started": 1991,
+    "year_quit": null,
+    "text": "Damien Rice"
+}, {
+    "id": 705,
+    "name": "Lisa Hannigan",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Lisa Hannigan"
+}, {
+    "id": 706,
+    "name": "Aeroplane",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Aeroplane"
+}, {
+    "id": 707,
+    "name": "Bon Jovi",
+    "year_started": 1983,
+    "year_quit": null,
+    "text": "Bon Jovi"
+}, {
+    "id": 708,
+    "name": "Jennifer Nettles",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Jennifer Nettles"
+}, {
+    "id": 709,
+    "name": "LeAnn Rimes",
+    "year_started": 1991,
+    "year_quit": null,
+    "text": "LeAnn Rimes"
+}, {
+    "id": 710,
+    "name": "Robbie Williams",
+    "year_started": 1990,
+    "year_quit": null,
+    "text": "Robbie Williams"
+}, {
+    "id": 711,
+    "name": "Take That",
+    "year_started": 1990,
+    "year_quit": null,
+    "text": "Take That"
+}, {
+    "id": 712,
+    "name": "Whitney Houston",
+    "year_started": 1977,
+    "year_quit": 2012,
+    "text": "Whitney Houston"
+}, {
+    "id": 713,
+    "name": "Ronan Keating",
+    "year_started": 1988,
+    "year_quit": null,
+    "text": "Ronan Keating"
+}, {
+    "id": 714,
+    "name": "Bring Me The Horizon",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Bring Me The Horizon"
+}, {
+    "id": 715,
+    "name": "Muse",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Muse"
+}, {
+    "id": 716,
+    "name": "The Carters",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "The Carters"
+}, {
+    "id": 717,
+    "name": "Aretha Franklin",
+    "year_started": 1956,
+    "year_quit": 2017,
+    "text": "Aretha Franklin"
+}, {
+    "id": 718,
+    "name": "Emeli Sand\u00e9",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Emeli Sand\u00e9"
+}, {
+    "id": 719,
+    "name": "Hooverphonic",
+    "year_started": 1995,
+    "year_quit": null,
+    "text": "Hooverphonic"
+}, {
+    "id": 720,
+    "name": "Chaka Khan",
+    "year_started": 1970,
+    "year_quit": null,
+    "text": "Chaka Khan"
+}, {
+    "id": 721,
+    "name": "Cody Simpson",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Cody Simpson"
+}, {
+    "id": 722,
+    "name": "Dizzee Rascal",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "Dizzee Rascal"
+}, {
+    "id": 723,
+    "name": "Sheryl Crow",
+    "year_started": 1987,
+    "year_quit": null,
+    "text": "Sheryl Crow"
+}, {
+    "id": 724,
+    "name": "De La Soul",
+    "year_started": 1987,
+    "year_quit": null,
+    "text": "De La Soul"
+}, {
+    "id": 725,
+    "name": "Tkay Maidza",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Tkay Maidza"
+}, {
+    "id": 726,
+    "name": "Timbaland",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Timbaland"
+}, {
+    "id": 727,
+    "name": "Nelly Furtado",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Nelly Furtado"
+}, {
+    "id": 728,
+    "name": "Daniel Powter",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "Daniel Powter"
+}, {
+    "id": 729,
+    "name": "Emily Warren",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Emily Warren"
+}, {
+    "id": 730,
+    "name": "Skepta",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Skepta"
+}, {
+    "id": 731,
+    "name": "OutKast",
+    "year_started": 1991,
+    "year_quit": null,
+    "text": "OutKast"
+}, {
+    "id": 732,
+    "name": "Ryan Lewis",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Ryan Lewis"
+}, {
+    "id": 734,
+    "name": "Wanz",
+    "year_started": 1980,
+    "year_quit": null,
+    "text": "Wanz"
+}, {
+    "id": 735,
+    "name": "Olivia",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "Olivia"
+}, {
+    "id": 736,
+    "name": "Ray Dalton",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Ray Dalton"
+}, {
+    "id": 737,
+    "name": "Lynyrd Skynyrd",
+    "year_started": 1964,
+    "year_quit": null,
+    "text": "Lynyrd Skynyrd"
+}, {
+    "id": 738,
+    "name": "The Specials",
+    "year_started": 1977,
+    "year_quit": null,
+    "text": "The Specials"
+}, {
+    "id": 739,
+    "name": "The Boomtown Rats",
+    "year_started": 1975,
+    "year_quit": null,
+    "text": "The Boomtown Rats"
+}, {
+    "id": 740,
+    "name": "Echosmith",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Echosmith"
+}, {
+    "id": 741,
+    "name": "Triggerfinger",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Triggerfinger"
+}, {
+    "id": 742,
+    "name": "Brahim",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Brahim"
+}, {
+    "id": 743,
+    "name": "Marble Sounds",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Marble Sounds"
+}, {
+    "id": 744,
+    "name": "Alphaville",
+    "year_started": 1982,
+    "year_quit": null,
+    "text": "Alphaville"
+}, {
+    "id": 745,
+    "name": "Matthew Wilder",
+    "year_started": 1972,
+    "year_quit": null,
+    "text": "Matthew Wilder"
+}, {
+    "id": 746,
+    "name": "Freddie Mercury",
+    "year_started": 1972,
+    "year_quit": 1991,
+    "text": "Freddie Mercury"
+}, {
+    "id": 747,
+    "name": "Europe",
+    "year_started": 1979,
+    "year_quit": null,
+    "text": "Europe"
+}, {
+    "id": 748,
+    "name": "Boo Radleys",
+    "year_started": 1988,
+    "year_quit": 1999,
+    "text": "Boo Radleys"
+}, {
+    "id": 749,
+    "name": "Yevgueni",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Yevgueni"
+}, {
+    "id": 750,
+    "name": "Moby",
+    "year_started": 1978,
+    "year_quit": null,
+    "text": "Moby"
+}, {
+    "id": 751,
+    "name": "Jessie Reyez",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Jessie Reyez"
+}, {
+    "id": 752,
+    "name": "Dollarman",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Dollarman"
+}, {
+    "id": 753,
+    "name": "Pitbull",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Pitbull"
+}, {
+    "id": 754,
+    "name": "Billy Ocean",
+    "year_started": 1969,
+    "year_quit": null,
+    "text": "Billy Ocean"
+}, {
+    "id": 755,
+    "name": "Ruslana",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Ruslana"
+}, {
+    "id": 756,
+    "name": "The Radios",
+    "year_started": 1988,
+    "year_quit": 1994,
+    "text": "The Radios"
+}, {
+    "id": 757,
+    "name": "Zacari",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Zacari"
+}, {
+    "id": 758,
+    "name": "Kate Winslet",
+    "year_started": 1991,
+    "year_quit": null,
+    "text": "Kate Winslet"
+}, {
+    "id": 759,
+    "name": "Mr Eazi",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Mr Eazi"
+}, {
+    "id": 760,
+    "name": "The Magician",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "The Magician"
+}, {
+    "id": 761,
+    "name": "Clew",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Clew"
+}, {
+    "id": 762,
+    "name": "Prov",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Prov"
+}, {
+    "id": 763,
+    "name": "Dennis Lloyd",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Dennis Lloyd"
+}, {
+    "id": 764,
+    "name": "Naughty Boy",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Naughty Boy"
+}, {
+    "id": 765,
+    "name": "Arrow Benjamin",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Arrow Benjamin"
+}, {
+    "id": 766,
+    "name": "A.CHAL",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "A.CHAL"
+}, {
+    "id": 767,
+    "name": "Ang\u00e8le",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Ang\u00e8le"
+}, {
+    "id": 768,
+    "name": "Seinabo Sey",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Seinabo Sey"
+}, {
+    "id": 769,
+    "name": "Jacob Banks",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Jacob Banks"
+}, {
+    "id": 770,
+    "name": "Pale Waves",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Pale Waves"
+}, {
+    "id": 771,
+    "name": "Babyshambles",
+    "year_started": 2003,
+    "year_quit": 2014,
+    "text": "Babyshambles"
+}, {
+    "id": 772,
+    "name": "Julian Casablancas",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Julian Casablancas"
+}, {
+    "id": 773,
+    "name": "Lenny Kravitz",
+    "year_started": 1981,
+    "year_quit": null,
+    "text": "Lenny Kravitz"
+}, {
+    "id": 774,
+    "name": "Rod Stewart",
+    "year_started": 1961,
+    "year_quit": null,
+    "text": "Rod Stewart"
+}, {
+    "id": 775,
+    "name": "Sting",
+    "year_started": 1971,
+    "year_quit": null,
+    "text": "Sting"
+}, {
+    "id": 776,
+    "name": "Paco de Luc\u00eda",
+    "year_started": 1958,
+    "year_quit": 2014,
+    "text": "Paco de Luc\u00eda"
+}, {
+    "id": 777,
+    "name": "Bonnie Raitt",
+    "year_started": 1971,
+    "year_quit": null,
+    "text": "Bonnie Raitt"
+}, {
+    "id": 778,
+    "name": "Chicane",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Chicane"
+}, {
+    "id": 779,
+    "name": "Pamela Anderson",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "Pamela Anderson"
+}, {
+    "id": 780,
+    "name": "Loverush UK!",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Loverush UK!"
+}, {
+    "id": 781,
+    "name": "Michael Bubl\u00e9",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Michael Bubl\u00e9"
+}, {
+    "id": 782,
+    "name": "Sebastien Drums",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Sebastien Drums"
+}, {
+    "id": 783,
+    "name": "Chris Martin",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Chris Martin"
+}, {
+    "id": 784,
+    "name": "Sigma",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Sigma"
+}, {
+    "id": 785,
+    "name": "B.o.B",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "B.o.B"
+}, {
+    "id": 786,
+    "name": "The Verve",
+    "year_started": 1990,
+    "year_quit": 2009,
+    "text": "The Verve"
+}, {
+    "id": 787,
+    "name": "Broken Glass Heroes",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Broken Glass Heroes"
+}, {
+    "id": 788,
+    "name": "Kings of Leon",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Kings of Leon"
+}, {
+    "id": 789,
+    "name": "Queens of the Stone Age",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Queens of the Stone Age"
+}, {
+    "id": 790,
+    "name": "Baloji",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Baloji"
+}, {
+    "id": 791,
+    "name": "Regi",
+    "year_started": 2017,
+    "year_quit": null,
+    "text": "Regi"
+}, {
+    "id": 792,
+    "name": "Jake Reese",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Jake Reese"
+}, {
+    "id": 793,
+    "name": "Elley Duh\u00e9",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "Elley Duh\u00e9"
+}, {
+    "id": 794,
+    "name": "Au\/Ra",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "Au\/Ra"
+}, {
+    "id": 795,
+    "name": "Tomine Harket",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Tomine Harket"
+}, {
+    "id": 796,
+    "name": "The Black Eyed Peas",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "The Black Eyed Peas"
+}, {
+    "id": 797,
+    "name": "Fergie",
+    "year_started": 1984,
+    "year_quit": null,
+    "text": "Fergie"
+}, {
+    "id": 798,
+    "name": "apl.de.ap",
+    "year_started": 1988,
+    "year_quit": null,
+    "text": "apl.de.ap"
+}, {
+    "id": 799,
+    "name": "Taboo",
+    "year_started": 1995,
+    "year_quit": null,
+    "text": "Taboo"
+}, {
+    "id": 800,
+    "name": "Rob Base and DJ E-Z Rock",
+    "year_started": 1985,
+    "year_quit": null,
+    "text": "Rob Base and DJ E-Z Rock"
+}, {
+    "id": 801,
+    "name": "Slick Rick",
+    "year_started": 1984,
+    "year_quit": null,
+    "text": "Slick Rick"
+}, {
+    "id": 802,
+    "name": "S\u00e9rgio Mendes",
+    "year_started": 1961,
+    "year_quit": null,
+    "text": "S\u00e9rgio Mendes"
+}, {
+    "id": 803,
+    "name": "Manu Chao",
+    "year_started": 1984,
+    "year_quit": null,
+    "text": "Manu Chao"
+}, {
+    "id": 804,
+    "name": "Razorlight",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "Razorlight"
+}, {
+    "id": 805,
+    "name": "Skunk Anansie",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Skunk Anansie"
+}, {
+    "id": 806,
+    "name": "Eels",
+    "year_started": 1995,
+    "year_quit": null,
+    "text": "Eels"
+}, {
+    "id": 807,
+    "name": "Goose",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "Goose"
+}, {
+    "id": 808,
+    "name": "Silk City",
+    "year_started": 2018,
+    "year_quit": null,
+    "text": "Silk City"
+}, {
+    "id": 809,
+    "name": "Mark Ronson",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "Mark Ronson"
+}, {
+    "id": 810,
+    "name": "Shakira",
+    "year_started": 1988,
+    "year_quit": null,
+    "text": "Shakira"
+}, {
+    "id": 811,
+    "name": "Wyclef Jean",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "Wyclef Jean"
+}, {
+    "id": 812,
+    "name": "\u00c1lvaro Soler",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "\u00c1lvaro Soler"
+}, {
+    "id": 813,
+    "name": "Feargal Sharkey",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Feargal Sharkey"
+}, {
+    "id": 814,
+    "name": "Prince",
+    "year_started": 1975,
+    "year_quit": 2016,
+    "text": "Prince"
+}, {
+    "id": 815,
+    "name": "The Cardigans",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "The Cardigans"
+}, {
+    "id": 816,
+    "name": "Guns N' Roses",
+    "year_started": 1985,
+    "year_quit": null,
+    "text": "Guns N' Roses"
+}, {
+    "id": 817,
+    "name": "Dr. Dre",
+    "year_started": 1984,
+    "year_quit": null,
+    "text": "Dr. Dre"
+}, {
+    "id": 818,
+    "name": "Outlawz",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "Outlawz"
+}, {
+    "id": 819,
+    "name": "Nate Dogg",
+    "year_started": 1991,
+    "year_quit": 2011,
+    "text": "Nate Dogg"
+}, {
+    "id": 820,
+    "name": "Lloyd Banks",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Lloyd Banks"
+}, {
+    "id": 821,
+    "name": "Cashis",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "Cashis"
+}, {
+    "id": 822,
+    "name": "Liz Rodrigues",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Liz Rodrigues"
+}, {
+    "id": 823,
+    "name": "Nate Ruess",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "Nate Ruess"
+}, {
+    "id": 824,
+    "name": "Royce da 5'9\"",
+    "year_started": 1995,
+    "year_quit": null,
+    "text": "Royce da 5'9\""
+}, {
+    "id": 825,
+    "name": "Danny Brown",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "Danny Brown"
+}, {
+    "id": 826,
+    "name": "Dej Loaf",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Dej Loaf"
+}, {
+    "id": 827,
+    "name": "Trick-Trick",
+    "year_started": 1990,
+    "year_quit": null,
+    "text": "Trick-Trick"
+}, {
+    "id": 828,
+    "name": "Gwen Stefani",
+    "year_started": 1986,
+    "year_quit": null,
+    "text": "Gwen Stefani"
+}, {
+    "id": 830,
+    "name": "The Notorious B.I.G.",
+    "year_started": 1992,
+    "year_quit": 1997,
+    "text": "The Notorious B.I.G."
+}, {
+    "id": 831,
+    "name": "Akon",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Akon"
+}, {
+    "id": 832,
+    "name": "Hayley Williams",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Hayley Williams"
+}, {
+    "id": 833,
+    "name": "T.I.",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "T.I."
+}, {
+    "id": 834,
+    "name": "Skylar Grey",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Skylar Grey"
+}, {
+    "id": 835,
+    "name": "Slaughterhouse",
+    "year_started": 2008,
+    "year_quit": 2018,
+    "text": "Slaughterhouse"
+}, {
+    "id": 836,
+    "name": "Adam Levine",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Adam Levine"
+}, {
+    "id": 837,
+    "name": "Phunk-A-Delic",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Phunk-A-Delic"
+}, {
+    "id": 838,
+    "name": "Vampire Weekend",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Vampire Weekend"
+}, {
+    "id": 839,
+    "name": "NGHBRS",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "NGHBRS"
+}, {
+    "id": 840,
+    "name": "Talent",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Talent"
+}, {
+    "id": 841,
+    "name": "Lily Allen",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "Lily Allen"
+}, {
+    "id": 842,
+    "name": "Berlaen",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Berlaen"
+}, {
+    "id": 843,
+    "name": "Art Garfunkel",
+    "year_started": 1956,
+    "year_quit": null,
+    "text": "Art Garfunkel"
+}, {
+    "id": 844,
+    "name": "Gers Pardoel",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Gers Pardoel"
+}, {
+    "id": 845,
+    "name": "Frenna",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Frenna"
+}, {
+    "id": 846,
+    "name": "Lil' Kleine",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Lil' Kleine"
+}, {
+    "id": 847,
+    "name": "Puff Daddy",
+    "year_started": 1990,
+    "year_quit": null,
+    "text": "Puff Daddy"
+}, {
+    "id": 848,
+    "name": "Loon",
+    "year_started": 1998,
+    "year_quit": 2009,
+    "text": "Loon"
+}, {
+    "id": 849,
+    "name": "Charlie Wilson",
+    "year_started": 1972,
+    "year_quit": null,
+    "text": "Charlie Wilson"
+}, {
+    "id": 850,
+    "name": "Santigold",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Santigold"
+}, {
+    "id": 851,
+    "name": "Kate Nash",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Kate Nash"
+}, {
+    "id": 852,
+    "name": "The Bet",
+    "year_started": null,
+    "year_quit": null,
+    "text": "The Bet"
+}, {
+    "id": 853,
+    "name": "Cyndi Lauper",
+    "year_started": 1977,
+    "year_quit": null,
+    "text": "Cyndi Lauper"
+}, {
+    "id": 854,
+    "name": "SX",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "SX"
+}, {
+    "id": 855,
+    "name": "Christine and the Queens",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Christine and the Queens"
+}, {
+    "id": 856,
+    "name": "K\u00f6lsch",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "K\u00f6lsch"
+}, {
+    "id": 857,
+    "name": "Tiga",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Tiga"
+}, {
+    "id": 858,
+    "name": "The War on Drugs",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "The War on Drugs"
+}, {
+    "id": 859,
+    "name": "Lil Pump",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "Lil Pump"
+}, {
+    "id": 860,
+    "name": "Adele Givens",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "Adele Givens"
+}, {
+    "id": 861,
+    "name": "Kool & the Gang",
+    "year_started": 1964,
+    "year_quit": null,
+    "text": "Kool & the Gang"
+}, {
+    "id": 862,
+    "name": "Blackwave.",
+    "year_started": 2017,
+    "year_quit": null,
+    "text": "Blackwave."
+}, {
+    "id": 863,
+    "name": "Monza",
+    "year_started": 2001,
+    "year_quit": 2008,
+    "text": "Monza"
+}, {
+    "id": 864,
+    "name": "Paul Johnson",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Paul Johnson"
+}, {
+    "id": 865,
+    "name": "Shocking Blue",
+    "year_started": 1967,
+    "year_quit": 1974,
+    "text": "Shocking Blue"
+}, {
+    "id": 866,
+    "name": "Labrinth",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Labrinth"
+}, {
+    "id": 867,
+    "name": "Sidney Samson",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Sidney Samson"
+}, {
+    "id": 868,
+    "name": "Janet Jackson",
+    "year_started": 1973,
+    "year_quit": null,
+    "text": "Janet Jackson"
+}, {
+    "id": 869,
+    "name": "Enya",
+    "year_started": 1976,
+    "year_quit": null,
+    "text": "Enya"
+}, {
+    "id": 870,
+    "name": "Starship",
+    "year_started": 1984,
+    "year_quit": null,
+    "text": "Starship"
+}, {
+    "id": 871,
+    "name": "Dragonette",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Dragonette"
+}, {
+    "id": 872,
+    "name": "Colby O'Donis",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Colby O'Donis"
+}, {
+    "id": 873,
+    "name": "Tony Bennett",
+    "year_started": 1945,
+    "year_quit": null,
+    "text": "Tony Bennett"
+}, {
+    "id": 874,
+    "name": "R. Kelly",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "R. Kelly"
+}, {
+    "id": 875,
+    "name": "Bradley Cooper",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Bradley Cooper"
+}, {
+    "id": 876,
+    "name": "Willy William",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Willy William"
+}, {
+    "id": 877,
+    "name": "Bachman-Turner Overdrive",
+    "year_started": 1973,
+    "year_quit": 2014,
+    "text": "Bachman-Turner Overdrive"
+}, {
+    "id": 878,
+    "name": "The Corrs",
+    "year_started": 1990,
+    "year_quit": null,
+    "text": "The Corrs"
+}, {
+    "id": 879,
+    "name": "The Rembrandts",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "The Rembrandts"
+}, {
+    "id": 880,
+    "name": "The Pussycat Dolls",
+    "year_started": 2003,
+    "year_quit": 2010,
+    "text": "The Pussycat Dolls"
+}, {
+    "id": 881,
+    "name": "Hoobastank",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Hoobastank"
+}, {
+    "id": 882,
+    "name": "Jack & Jack",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Jack & Jack"
+}, {
+    "id": 883,
+    "name": "Gabriel R\u00edos",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Gabriel R\u00edos"
+}, {
+    "id": 884,
+    "name": "Ian Thomas",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Ian Thomas"
+}, {
+    "id": 885,
+    "name": "Blanche",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "Blanche"
+}, {
+    "id": 886,
+    "name": "Pearl Jam",
+    "year_started": 1990,
+    "year_quit": null,
+    "text": "Pearl Jam"
+}, {
+    "id": 887,
+    "name": "XXXTentacion",
+    "year_started": 2013,
+    "year_quit": 2018,
+    "text": "XXXTentacion"
+}, {
+    "id": 888,
+    "name": "Gunna",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Gunna"
+}, {
+    "id": 889,
+    "name": "Machine Gun Kelly",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Machine Gun Kelly"
+}, {
+    "id": 890,
+    "name": "Kelsea Ballerini",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Kelsea Ballerini"
+}, {
+    "id": 891,
+    "name": "Sophia Somajo",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Sophia Somajo"
+}, {
+    "id": 892,
+    "name": "Juice WRLD",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Juice WRLD"
+}, {
+    "id": 893,
+    "name": "Big Hawk",
+    "year_started": 1992,
+    "year_quit": 2006,
+    "text": "Big Hawk"
+}, {
+    "id": 894,
+    "name": "Sheck Wes",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Sheck Wes"
+}, {
+    "id": 895,
+    "name": "Kodak Black",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Kodak Black"
+}, {
+    "id": 896,
+    "name": "Panic! at the Disco",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Panic! at the Disco"
+}, {
+    "id": 897,
+    "name": "Weezer",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Weezer"
+}, {
+    "id": 898,
+    "name": "6ix9ine",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "6ix9ine"
+}, {
+    "id": 899,
+    "name": "Bobby Shmurda",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Bobby Shmurda"
+}, {
+    "id": 900,
+    "name": "Why Don't We",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "Why Don't We"
+}, {
+    "id": 901,
+    "name": "Bryce Vine",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Bryce Vine"
+}, {
+    "id": 902,
+    "name": "Lele Pons",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Lele Pons"
+}, {
+    "id": 903,
+    "name": "BloodPop\u00ae",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "BloodPop\u00ae"
+}, {
+    "id": 904,
+    "name": "a-ha",
+    "year_started": 1982,
+    "year_quit": null,
+    "text": "a-ha"
+}, {
+    "id": 905,
+    "name": "Lil Yachty",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Lil Yachty"
+}, {
+    "id": 906,
+    "name": "Trey Songz",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Trey Songz"
+}, {
+    "id": 907,
+    "name": "Sirah",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Sirah"
+}, {
+    "id": 908,
+    "name": "Goo Goo Dolls",
+    "year_started": 1986,
+    "year_quit": null,
+    "text": "Goo Goo Dolls"
+}, {
+    "id": 909,
+    "name": "John Lennon",
+    "year_started": 1957,
+    "year_quit": 1980,
+    "text": "John Lennon"
+}, {
+    "id": 910,
+    "name": "Yeng Constantino",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Yeng Constantino"
+}, {
+    "id": 911,
+    "name": "Erika Costell",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Erika Costell"
+}, {
+    "id": 912,
+    "name": "Jake Paul",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Jake Paul"
+}, {
+    "id": 913,
+    "name": "Lil' Eddie",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Lil' Eddie"
+}, {
+    "id": 914,
+    "name": "Murda Beatz",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Murda Beatz"
+}, {
+    "id": 915,
+    "name": "Uncle Murda",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Uncle Murda"
+}, {
+    "id": 916,
+    "name": "Casanova",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Casanova"
+}, {
+    "id": 917,
+    "name": "Eleni Foureira",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Eleni Foureira"
+}, {
+    "id": 918,
+    "name": "INNA",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "INNA"
+}, {
+    "id": 919,
+    "name": "Stephen Sharer",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Stephen Sharer"
+}, {
+    "id": 920,
+    "name": "Sponge Cola",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Sponge Cola"
+}, {
+    "id": 921,
+    "name": "Moira Dela Torre",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Moira Dela Torre"
+}, {
+    "id": 922,
+    "name": "Ti\u00ebsto",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Ti\u00ebsto"
+}, {
+    "id": 923,
+    "name": "Dzeko",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Dzeko"
+}, {
+    "id": 924,
+    "name": "Preme",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Preme"
+}, {
+    "id": 925,
+    "name": "Lil Peep",
+    "year_started": 2014,
+    "year_quit": 2017,
+    "text": "Lil Peep"
+}, {
+    "id": 926,
+    "name": "Zonderling",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Zonderling"
+}, {
+    "id": 927,
+    "name": "Chet Faker",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Chet Faker"
+}, {
+    "id": 928,
+    "name": "Lil Dicky",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Lil Dicky"
+}, {
+    "id": 929,
+    "name": "Boyinaband",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Boyinaband"
+}, {
+    "id": 930,
+    "name": "TheOdd1sOut",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "TheOdd1sOut"
+}, {
+    "id": 931,
+    "name": "Smokepurpp",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Smokepurpp"
+}, {
+    "id": 932,
+    "name": "Hanin Dhiya",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Hanin Dhiya"
+}, {
+    "id": 933,
+    "name": "Lauren Daigle",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Lauren Daigle"
+}, {
+    "id": 934,
+    "name": "Awolnation",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Awolnation"
+}, {
+    "id": 935,
+    "name": "Tiffany",
+    "year_started": 1981,
+    "year_quit": null,
+    "text": "Tiffany"
+}, {
+    "id": 936,
+    "name": "Tiffany Young",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Tiffany Young"
+}, {
+    "id": 937,
+    "name": "Netta",
+    "year_started": 2017,
+    "year_quit": null,
+    "text": "Netta"
+}, {
+    "id": 938,
+    "name": "Christina Perri",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Christina Perri"
+}, {
+    "id": 939,
+    "name": "Trippie Redd",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Trippie Redd"
+}, {
+    "id": 940,
+    "name": "My Chemical Romance",
+    "year_started": 2001,
+    "year_quit": 2013,
+    "text": "My Chemical Romance"
+}, {
+    "id": 941,
+    "name": "Papa Roach",
+    "year_started": 1993,
+    "year_quit": null,
+    "text": "Papa Roach"
+}, {
+    "id": 942,
+    "name": "Tessa Violet",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Tessa Violet"
+}, {
+    "id": 943,
+    "name": "Logan Paul",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Logan Paul"
+}, {
+    "id": 944,
+    "name": "Redlight",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Redlight"
+}, {
+    "id": 945,
+    "name": "Nipsey Hussle",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Nipsey Hussle"
+}, {
+    "id": 946,
+    "name": "Belly",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Belly"
+}, {
+    "id": 947,
+    "name": "Dom Kennedy",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Dom Kennedy"
+}, {
+    "id": 948,
+    "name": "Lil Xan",
+    "year_started": 2016,
+    "year_quit": 2018,
+    "text": "Lil Xan"
+}, {
+    "id": 949,
+    "name": "Anitta",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Anitta"
+}, {
+    "id": 950,
+    "name": "Anuel AA",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Anuel AA"
+}, {
+    "id": 951,
+    "name": "Zhavia Ward",
+    "year_started": 2018,
+    "year_quit": null,
+    "text": "Zhavia Ward"
+}, {
+    "id": 952,
+    "name": "Cher",
+    "year_started": 1963,
+    "year_quit": null,
+    "text": "Cher"
+}, {
+    "id": 953,
+    "name": "Gregory Porter",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Gregory Porter"
+}, {
+    "id": 954,
+    "name": "Lamb",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Lamb"
+}, {
+    "id": 955,
+    "name": "Andrea Bocelli",
+    "year_started": 1982,
+    "year_quit": null,
+    "text": "Andrea Bocelli"
+}, {
+    "id": 956,
+    "name": "benny blanco",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "benny blanco"
+}, {
+    "id": 957,
+    "name": "Snakehips",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Snakehips"
+}, {
+    "id": 958,
+    "name": "FRENSHIP",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "FRENSHIP"
+}, {
+    "id": 959,
+    "name": "Edward Maya",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Edward Maya"
+}, {
+    "id": 960,
+    "name": "Vika Jigulina",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "Vika Jigulina"
+}, {
+    "id": 961,
+    "name": "R3hab",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "R3hab"
+}, {
+    "id": 962,
+    "name": "KSHMR",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "KSHMR"
+}, {
+    "id": 963,
+    "name": "Matisse & Sadko",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Matisse & Sadko"
+}, {
+    "id": 964,
+    "name": "Melanie Martinez",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Melanie Martinez"
+}, {
+    "id": 965,
+    "name": "Annie LeBlanc",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Annie LeBlanc"
+}, {
+    "id": 966,
+    "name": "Bhad Bhabie",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "Bhad Bhabie"
+}, {
+    "id": 967,
+    "name": "KYLE",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "KYLE"
+}, {
+    "id": 968,
+    "name": "Childish Gambino",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Childish Gambino"
+}, {
+    "id": 969,
+    "name": "No Doubt",
+    "year_started": 1986,
+    "year_quit": null,
+    "text": "No Doubt"
+}, {
+    "id": 970,
+    "name": "Just Jack",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "Just Jack"
+}, {
+    "id": 971,
+    "name": "Woodie Smalls",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Woodie Smalls"
+}, {
+    "id": 972,
+    "name": "Luna Blaise",
+    "year_started": 2017,
+    "year_quit": null,
+    "text": "Luna Blaise"
+}, {
+    "id": 973,
+    "name": "Ex Battalion",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "Ex Battalion"
+}, {
+    "id": 974,
+    "name": "B\u00f9i Anh Tu\u1ea5n",
+    "year_started": null,
+    "year_quit": null,
+    "text": "B\u00f9i Anh Tu\u1ea5n"
+}, {
+    "id": 975,
+    "name": "Andra Day",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Andra Day"
+}, {
+    "id": 976,
+    "name": "GRiNGO",
+    "year_started": null,
+    "year_quit": null,
+    "text": "GRiNGO"
+}, {
+    "id": 977,
+    "name": "Imran Khan",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Imran Khan"
+}, {
+    "id": 978,
+    "name": "Passenger",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Passenger"
+}, {
+    "id": 979,
+    "name": "Chris Willis",
+    "year_started": 1986,
+    "year_quit": null,
+    "text": "Chris Willis"
+}, {
+    "id": 980,
+    "name": "Brooks",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Brooks"
+}, {
+    "id": 981,
+    "name": "Ne-Yo",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Ne-Yo"
+}, {
+    "id": 982,
+    "name": "Vassy",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Vassy"
+}, {
+    "id": 983,
+    "name": "Kelly Rowland",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "Kelly Rowland"
+}, {
+    "id": 984,
+    "name": "Usher",
+    "year_started": 1991,
+    "year_quit": null,
+    "text": "Usher"
+}, {
+    "id": 985,
+    "name": "Troye Sivan",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Troye Sivan"
+}, {
+    "id": 986,
+    "name": "MadeinTYO",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "MadeinTYO"
+}, {
+    "id": 987,
+    "name": "Tommie",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Tommie"
+}, {
+    "id": 988,
+    "name": "Blac Youngsta",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Blac Youngsta"
+}, {
+    "id": 989,
+    "name": "Plies",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Plies"
+}, {
+    "id": 990,
+    "name": "John Roa",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "John Roa"
+}, {
+    "id": 991,
+    "name": "Loonie",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Loonie"
+}, {
+    "id": 992,
+    "name": "Skillet",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Skillet"
+}, {
+    "id": 993,
+    "name": "Clara Benin",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Clara Benin"
+}, {
+    "id": 994,
+    "name": "Carrie Underwood",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Carrie Underwood"
+}, {
+    "id": 995,
+    "name": "Avenged Sevenfold",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Avenged Sevenfold"
+}, {
+    "id": 996,
+    "name": "Last Child",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Last Child"
+}, {
+    "id": 997,
+    "name": "Dylan Scott",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Dylan Scott"
+}, {
+    "id": 998,
+    "name": "Nasty C",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Nasty C"
+}, {
+    "id": 999,
+    "name": "DJ SpinKing",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "DJ SpinKing"
+}, {
+    "id": 1000,
+    "name": "Jasmine Sokko",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "Jasmine Sokko"
+}, {
+    "id": 1001,
+    "name": "Balti",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Balti"
+}, {
+    "id": 1002,
+    "name": "Hamouda",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Hamouda"
+}, {
+    "id": 1003,
+    "name": "Talking Heads",
+    "year_started": 1975,
+    "year_quit": 1991,
+    "text": "Talking Heads"
+}, {
+    "id": 1004,
+    "name": "Slipknot",
+    "year_started": 1995,
+    "year_quit": null,
+    "text": "Slipknot"
+}, {
+    "id": 1005,
+    "name": "FKA twigs",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "FKA twigs"
+}, {
+    "id": 1006,
+    "name": "Brain",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Brain"
+}, {
+    "id": 1007,
+    "name": "RED",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "RED"
+}, {
+    "id": 1008,
+    "name": "Spice",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "Spice"
+}, {
+    "id": 1009,
+    "name": "A Boogie wit da Hoodie",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "A Boogie wit da Hoodie"
+}, {
+    "id": 1010,
+    "name": "Little Big",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Little Big"
+}, {
+    "id": 1011,
+    "name": "Cole Swindell",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Cole Swindell"
+}, {
+    "id": 1012,
+    "name": "Tank",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Tank"
+}, {
+    "id": 1013,
+    "name": "Zach Williams",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Zach Williams"
+}, {
+    "id": 1014,
+    "name": "Dan + Shay",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Dan + Shay"
+}, {
+    "id": 1015,
+    "name": "Zhu",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Zhu"
+}, {
+    "id": 1016,
+    "name": "H.E.R.",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "H.E.R."
+}, {
+    "id": 1017,
+    "name": "Jacob Sartorius",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Jacob Sartorius"
+}, {
+    "id": 1018,
+    "name": "Levi Bent-Lee",
+    "year_started": 2018,
+    "year_quit": null,
+    "text": "Levi Bent-Lee"
+}, {
+    "id": 1019,
+    "name": "Marina",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Marina"
+}, {
+    "id": 1020,
+    "name": "Stormzy",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Stormzy"
+}, {
+    "id": 1021,
+    "name": "Love Ssega",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Love Ssega"
+}, {
+    "id": 1022,
+    "name": "Sharna Bass",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Sharna Bass"
+}, {
+    "id": 1023,
+    "name": "Raye",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Raye"
+}, {
+    "id": 1024,
+    "name": "Moelogo",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Moelogo"
+}, {
+    "id": 1025,
+    "name": "Arlissa",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Arlissa"
+}, {
+    "id": 1026,
+    "name": "Wesley Franklin",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Wesley Franklin"
+}, {
+    "id": 1027,
+    "name": "Ava Max",
+    "year_started": 2017,
+    "year_quit": null,
+    "text": "Ava Max"
+}, {
+    "id": 1028,
+    "name": "Van Echelpoel",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "Van Echelpoel"
+}, {
+    "id": 1029,
+    "name": "Vein",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Vein"
+}, {
+    "id": 1030,
+    "name": "Sherwood Marty",
+    "year_started": 2017,
+    "year_quit": null,
+    "text": "Sherwood Marty"
+}, {
+    "id": 1031,
+    "name": "Dinah Jane",
+    "year_started": 2018,
+    "year_quit": null,
+    "text": "Dinah Jane"
+}, {
+    "id": 1032,
+    "name": "Marc E. Bassy",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Marc E. Bassy"
+}, {
+    "id": 1033,
+    "name": "Booba",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Booba"
+}, {
+    "id": 1034,
+    "name": "Avril Lavigne",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Avril Lavigne"
+}, {
+    "id": 1035,
+    "name": "The Pretty Reckless",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "The Pretty Reckless"
+}, {
+    "id": 1036,
+    "name": "Charlotte",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Charlotte"
+}, {
+    "id": 1037,
+    "name": "Tsar B",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Tsar B"
+}, {
+    "id": 1038,
+    "name": "Tha Dogg Pound",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Tha Dogg Pound"
+}, {
+    "id": 1039,
+    "name": "The Dramatics",
+    "year_started": 1964,
+    "year_quit": null,
+    "text": "The Dramatics"
+}, {
+    "id": 1040,
+    "name": "Jermaine Dupri",
+    "year_started": 1984,
+    "year_quit": null,
+    "text": "Jermaine Dupri"
+}, {
+    "id": 1041,
+    "name": "B.Slade",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "B.Slade"
+}, {
+    "id": 1042,
+    "name": "October London",
+    "year_started": null,
+    "year_quit": null,
+    "text": "October London"
+}, {
+    "id": 1043,
+    "name": "Stevie Wonder",
+    "year_started": 1961,
+    "year_quit": null,
+    "text": "Stevie Wonder"
+}, {
+    "id": 1044,
+    "name": "The Who",
+    "year_started": 1964,
+    "year_quit": null,
+    "text": "The Who"
+}, {
+    "id": 1045,
+    "name": "Anna Blue",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Anna Blue"
+}, {
+    "id": 1046,
+    "name": "Majid Jordan",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Majid Jordan"
+}, {
+    "id": 1047,
+    "name": "PartyNextDoor",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "PartyNextDoor"
+}, {
+    "id": 1048,
+    "name": "Jhen\u00e9 Aiko",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "Jhen\u00e9 Aiko"
+}, {
+    "id": 1049,
+    "name": "Detail",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Detail"
+}, {
+    "id": 1050,
+    "name": "Sniff 'n' the Tears",
+    "year_started": 1977,
+    "year_quit": null,
+    "text": "Sniff 'n' the Tears"
+}, {
+    "id": 1051,
+    "name": "Sonny Sandoval",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Sonny Sandoval"
+}, {
+    "id": 1052,
+    "name": "Panda Bear",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Panda Bear"
+}, {
+    "id": 1053,
+    "name": "Giorgio Moroder",
+    "year_started": 1963,
+    "year_quit": null,
+    "text": "Giorgio Moroder"
+}, {
+    "id": 1054,
+    "name": "Paul Williams",
+    "year_started": 1960,
+    "year_quit": null,
+    "text": "Paul Williams"
+}, {
+    "id": 1055,
+    "name": "Todd Edwards",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Todd Edwards"
+}, {
+    "id": 1056,
+    "name": "Sin With Sebastian",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Sin With Sebastian"
+}, {
+    "id": 1057,
+    "name": "Dean Lewis",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "Dean Lewis"
+}, {
+    "id": 1058,
+    "name": "Tourist LeMC",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "Tourist LeMC"
+}, {
+    "id": 1059,
+    "name": "Raymond van het Groenewoud",
+    "year_started": 1977,
+    "year_quit": null,
+    "text": "Raymond van het Groenewoud"
+}, {
+    "id": 1060,
+    "name": "Mystic",
+    "year_started": 1990,
+    "year_quit": null,
+    "text": "Mystic"
+}, {
+    "id": 1061,
+    "name": "The Subs",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "The Subs"
+}, {
+    "id": 1062,
+    "name": "Dimitri Vegas & Like Mike",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Dimitri Vegas & Like Mike"
+}, {
+    "id": 1063,
+    "name": "Tarrus Riley",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Tarrus Riley"
+}, {
+    "id": 1064,
+    "name": "Eric Clapton",
+    "year_started": 1962,
+    "year_quit": null,
+    "text": "Eric Clapton"
+}, {
+    "id": 1065,
+    "name": "Lennon Stella",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Lennon Stella"
+}, {
+    "id": 1066,
+    "name": "Kurt Vile",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Kurt Vile"
+}, {
+    "id": 1067,
+    "name": "Jeezy",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Jeezy"
+}, {
+    "id": 1068,
+    "name": "Slash",
+    "year_started": 1981,
+    "year_quit": null,
+    "text": "Slash"
+}, {
+    "id": 1069,
+    "name": "Mikky Ekko",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Mikky Ekko"
+}, {
+    "id": 1070,
+    "name": "Kevin Cossom",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Kevin Cossom"
+}, {
+    "id": 1071,
+    "name": "Mike Will Made It",
+    "year_started": 2005,
+    "year_quit": null,
+    "text": "Mike Will Made It"
+}, {
+    "id": 1072,
+    "name": "J-Status",
+    "year_started": null,
+    "year_quit": null,
+    "text": "J-Status"
+}, {
+    "id": 1073,
+    "name": "Wale",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "Wale"
+}, {
+    "id": 1074,
+    "name": "Olivia Newton-John",
+    "year_started": 1963,
+    "year_quit": null,
+    "text": "Olivia Newton-John"
+}, {
+    "id": 1075,
+    "name": "Vanessa Amorosi",
+    "year_started": 1998,
+    "year_quit": null,
+    "text": "Vanessa Amorosi"
+}, {
+    "id": 1076,
+    "name": "Rupee",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "Rupee"
+}, {
+    "id": 1077,
+    "name": "Jadakiss",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Jadakiss"
+}, {
+    "id": 1078,
+    "name": "Styles P",
+    "year_started": 1994,
+    "year_quit": null,
+    "text": "Styles P"
+}, {
+    "id": 1079,
+    "name": "Big Pun",
+    "year_started": 1992,
+    "year_quit": 2000,
+    "text": "Big Pun"
+}, {
+    "id": 1080,
+    "name": "Fat Joe",
+    "year_started": 1992,
+    "year_quit": null,
+    "text": "Fat Joe"
+}, {
+    "id": 1081,
+    "name": "Marc Anthony",
+    "year_started": 1988,
+    "year_quit": null,
+    "text": "Marc Anthony"
+}, {
+    "id": 1082,
+    "name": "Dynoro",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Dynoro"
+}, {
+    "id": 1083,
+    "name": "Gigi D'Agostino",
+    "year_started": 1986,
+    "year_quit": null,
+    "text": "Gigi D'Agostino"
+}, {
+    "id": 1084,
+    "name": "Rom\u00e9o Elvis",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Rom\u00e9o Elvis"
+}, {
+    "id": 1085,
+    "name": "Robert Abigail",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Robert Abigail"
+}, {
+    "id": 1086,
+    "name": "Whispering Sons",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Whispering Sons"
+}, {
+    "id": 1087,
+    "name": "Balthazar",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Balthazar"
+}, {
+    "id": 1088,
+    "name": "Luke Combs",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Luke Combs"
+}, {
+    "id": 1089,
+    "name": "Apashe",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Apashe"
+}, {
+    "id": 1090,
+    "name": "Wasiu",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Wasiu"
+}, {
+    "id": 1091,
+    "name": "Snow Tha Product",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Snow Tha Product"
+}, {
+    "id": 1092,
+    "name": "Alem\u00e1n",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Alem\u00e1n"
+}, {
+    "id": 1093,
+    "name": "EXID",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "EXID"
+}, {
+    "id": 1094,
+    "name": "Steve Aoki",
+    "year_started": 1996,
+    "year_quit": null,
+    "text": "Steve Aoki"
+}, {
+    "id": 1095,
+    "name": "BTS",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "BTS"
+}, {
+    "id": 1096,
+    "name": "Wengie",
+    "year_started": 2013,
+    "year_quit": null,
+    "text": "Wengie"
+}, {
+    "id": 1097,
+    "name": "Sharaya J",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "Sharaya J"
+}, {
+    "id": 1098,
+    "name": "Jay Rock",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "Jay Rock"
+}, {
+    "id": 1099,
+    "name": "John Hiatt",
+    "year_started": 1972,
+    "year_quit": null,
+    "text": "John Hiatt"
+}, {
+    "id": 1100,
+    "name": "8 Ounz",
+    "year_started": null,
+    "year_quit": null,
+    "text": "8 Ounz"
+}, {
+    "id": 1101,
+    "name": "Colin Munroe",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Colin Munroe"
+}, {
+    "id": 1102,
+    "name": "RZA",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "RZA"
+}, {
+    "id": 1103,
+    "name": "GLC",
+    "year_started": 2003,
+    "year_quit": null,
+    "text": "GLC"
+}, {
+    "id": 1104,
+    "name": "Schoolboy Q",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Schoolboy Q"
+}, {
+    "id": 1105,
+    "name": "Ash Riser",
+    "year_started": 2004,
+    "year_quit": null,
+    "text": "Ash Riser"
+}, {
+    "id": 1106,
+    "name": "BJ the Chicago Kid",
+    "year_started": 2001,
+    "year_quit": null,
+    "text": "BJ the Chicago Kid"
+}, {
+    "id": 1107,
+    "name": "Ab-Soul",
+    "year_started": 2002,
+    "year_quit": null,
+    "text": "Ab-Soul"
+}, {
+    "id": 1108,
+    "name": "MC Eiht",
+    "year_started": 1991,
+    "year_quit": null,
+    "text": "MC Eiht"
+}, {
+    "id": 1109,
+    "name": "Anna Wise",
+    "year_started": 2009,
+    "year_quit": null,
+    "text": "Anna Wise"
+}, {
+    "id": 1110,
+    "name": "Mary J. Blige",
+    "year_started": 1989,
+    "year_quit": null,
+    "text": "Mary J. Blige"
+}, {
+    "id": 1111,
+    "name": "Black Hippy",
+    "year_started": 2008,
+    "year_quit": null,
+    "text": "Black Hippy"
+}, {
+    "id": 1112,
+    "name": "George Clinton",
+    "year_started": 1955,
+    "year_quit": null,
+    "text": "George Clinton"
+}, {
+    "id": 1113,
+    "name": "Thundercat",
+    "year_started": 2000,
+    "year_quit": null,
+    "text": "Thundercat"
+}, {
+    "id": 1114,
+    "name": "Bilal",
+    "year_started": 1999,
+    "year_quit": null,
+    "text": "Bilal"
+}, {
+    "id": 1115,
+    "name": "Ronald Isley",
+    "year_started": 1954,
+    "year_quit": null,
+    "text": "Ronald Isley"
+}, {
+    "id": 1116,
+    "name": "James Fauntleroy",
+    "year_started": 2006,
+    "year_quit": null,
+    "text": "James Fauntleroy"
+}, {
+    "id": 1117,
+    "name": "Rapsody",
+    "year_started": 2007,
+    "year_quit": null,
+    "text": "Rapsody"
+}, {
+    "id": 1118,
+    "name": "Ace of Base",
+    "year_started": 1990,
+    "year_quit": 2013,
+    "text": "Ace of Base"
+}, {
+    "id": 1119,
+    "name": "The Prince Karma",
+    "year_started": 2018,
+    "year_quit": null,
+    "text": "The Prince Karma"
+}, {
+    "id": 1120,
+    "name": "Don Diablo",
+    "year_started": 1997,
+    "year_quit": null,
+    "text": "Don Diablo"
+}, {
+    "id": 1121,
+    "name": "Loud Luxury",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Loud Luxury"
+}, {
+    "id": 1122,
+    "name": "Brando",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Brando"
+}, {
+    "id": 1123,
+    "name": "Jarico",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Jarico"
+}, {
+    "id": 1124,
+    "name": "SHAED",
+    "year_started": 2018,
+    "year_quit": null,
+    "text": "SHAED"
+}, {
+    "id": 1125,
+    "name": "Rene\u00e9 Dominique",
+    "year_started": 2018,
+    "year_quit": null,
+    "text": "Rene\u00e9 Dominique"
+}, {
+    "id": 1126,
+    "name": "Tommee Profitt",
+    "year_started": 2015,
+    "year_quit": null,
+    "text": "Tommee Profitt"
+}, {
+    "id": 1127,
+    "name": "Flipp Dinero",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "Flipp Dinero"
+}, {
+    "id": 1128,
+    "name": "Gaullin",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Gaullin"
+}, {
+    "id": 1129,
+    "name": "lovelytheband",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "lovelytheband"
+}, {
+    "id": 1130,
+    "name": "Fisher",
+    "year_started": 2017,
+    "year_quit": null,
+    "text": "Fisher"
+}, {
+    "id": 1131,
+    "name": "Ella Mai",
+    "year_started": 2014,
+    "year_quit": null,
+    "text": "Ella Mai"
+}, {
+    "id": 1132,
+    "name": "Redbone",
+    "year_started": 1969,
+    "year_quit": null,
+    "text": "Redbone"
+}, {
+    "id": 1133,
+    "name": "BLACKPINK",
+    "year_started": 2016,
+    "year_quit": null,
+    "text": "BLACKPINK"
+}, {
+    "id": 1134,
+    "name": "NF",
+    "year_started": 2010,
+    "year_quit": null,
+    "text": "NF"
+}, {
+    "id": 1135,
+    "name": "Ozuna",
+    "year_started": 2012,
+    "year_quit": null,
+    "text": "Ozuna"
+}, {
+    "id": 1136,
+    "name": "Erika Sirola",
+    "year_started": null,
+    "year_quit": null,
+    "text": "Erika Sirola"
+}, {
+    "id": 1137,
+    "name": "Pardison Fontaine",
+    "year_started": 2011,
+    "year_quit": null,
+    "text": "Pardison Fontaine"
+}]
