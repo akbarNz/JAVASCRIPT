@@ -131,3 +131,29 @@ function nextWatch(event) {
 
 
 // delete
+
+function deleteName(event) {
+    let valid = event.keyCode;
+    if (valid == 13) {
+        let getInput = document.getElementById("deleteName").value;
+        fetch("http://10.20.0.214:2525/watch")
+            .then((response) => response.json())
+            .then(data => {
+                data.map(obj => {
+                    if(getInput == obj.studentName) {
+                        let getId = obj.id;
+                        console.log(getId)
+                        fetch(`http://10.20.0.214:2525/watch?id=${getId}`, {
+                            method:"DELETE",
+                            headers:{
+                                "Accept": "application/json",
+                                "Content-Type": "application/json" 
+                            }
+                        }
+                        )
+                    }
+                })
+            })
+            
+    }
+}
